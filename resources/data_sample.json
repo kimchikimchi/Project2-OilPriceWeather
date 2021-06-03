@@ -1,0 +1,102 @@
+[
+  {
+    "week_of": "2021-05-17T00:00:00",
+    "dollars_per_gallon": 3.118
+  },
+  {
+    "week_of": "2021-05-10T00:00:00",
+    "dollars_per_gallon": 3.051
+  },
+  {
+    "week_of": "2021-05-03T00:00:00",
+    "dollars_per_gallon": 2.981
+  },
+  {
+    "week_of": "2021-04-26T00:00:00",
+    "dollars_per_gallon": 2.962
+  },
+  {
+    "week_of": "2021-04-19T00:00:00",
+    "dollars_per_gallon": 2.945
+  },
+  {
+    "week_of": "2021-04-12T00:00:00",
+    "dollars_per_gallon": 2.939
+  },
+  {
+    "week_of": "2021-04-05T00:00:00",
+    "dollars_per_gallon": 2.945
+  },
+  {
+    "week_of": "2021-03-29T00:00:00",
+    "dollars_per_gallon": 2.941
+  },
+  {
+    "week_of": "2021-03-22T00:00:00",
+    "dollars_per_gallon": 2.954
+  },
+  {
+    "week_of": "2021-03-15T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2021-03-08T00:00:00",
+    "dollars_per_gallon": 2.857
+  },
+  {
+    "week_of": "2021-03-01T00:00:00",
+    "dollars_per_gallon": 2.796
+  },
+  {
+    "week_of": "2021-02-22T00:00:00",
+    "dollars_per_gallon": 2.717
+  },
+  {
+    "week_of": "2021-02-15T00:00:00",
+    "dollars_per_gallon": 2.588
+  },
+  {
+    "week_of": "2021-02-08T00:00:00",
+    "dollars_per_gallon": 2.548
+  },
+  {
+    "week_of": "2021-02-01T00:00:00",
+    "dollars_per_gallon": 2.495
+  },
+  {
+    "week_of": "2021-01-25T00:00:00",
+    "dollars_per_gallon": 2.478
+  },
+  {
+    "week_of": "2021-01-18T00:00:00",
+    "dollars_per_gallon": 2.464
+  },
+  {
+    "week_of": "2021-01-11T00:00:00",
+    "dollars_per_gallon": 2.403
+  },
+  {
+    "week_of": "2021-01-04T00:00:00",
+    "dollars_per_gallon": 2.336
+  },
+  {
+    "week_of": "2020-12-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-12-21T00:00:00",
+    "dollars_per_gallon": 2.311
+  },
+  {
+    "week_of": "2020-12-14T00:00:00",
+    "dollars_per_gallon": 2.247
+  },
+  {
+    "week_of": "2020-12-07T00:00:00",
+    "dollars_per_gallon": 2.246
+  },
+  {
+    "week_of": "2020-11-30T00:00:00",
+    "dollars_per_gallon": 2.211
+  }
+]
