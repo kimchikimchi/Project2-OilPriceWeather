@@ -1,5 +1,5 @@
 // Use d3 to update data table with week and gas price
-d3.json("../data_sample.json").then((data) => {
+d3.json("../../../resources/data_sample.json").then((data) => {
     // log data 
     console.log(data);
 
