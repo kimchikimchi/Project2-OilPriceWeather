@@ -1,0 +1,5874 @@
+[
+  {
+    "week_of": "2021-05-17T00:00:00",
+    "dollars_per_gallon": 3.118
+  },
+  {
+    "week_of": "2021-05-10T00:00:00",
+    "dollars_per_gallon": 3.051
+  },
+  {
+    "week_of": "2021-05-03T00:00:00",
+    "dollars_per_gallon": 2.981
+  },
+  {
+    "week_of": "2021-04-26T00:00:00",
+    "dollars_per_gallon": 2.962
+  },
+  {
+    "week_of": "2021-04-19T00:00:00",
+    "dollars_per_gallon": 2.945
+  },
+  {
+    "week_of": "2021-04-12T00:00:00",
+    "dollars_per_gallon": 2.939
+  },
+  {
+    "week_of": "2021-04-05T00:00:00",
+    "dollars_per_gallon": 2.945
+  },
+  {
+    "week_of": "2021-03-29T00:00:00",
+    "dollars_per_gallon": 2.941
+  },
+  {
+    "week_of": "2021-03-22T00:00:00",
+    "dollars_per_gallon": 2.954
+  },
+  {
+    "week_of": "2021-03-15T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2021-03-08T00:00:00",
+    "dollars_per_gallon": 2.857
+  },
+  {
+    "week_of": "2021-03-01T00:00:00",
+    "dollars_per_gallon": 2.796
+  },
+  {
+    "week_of": "2021-02-22T00:00:00",
+    "dollars_per_gallon": 2.717
+  },
+  {
+    "week_of": "2021-02-15T00:00:00",
+    "dollars_per_gallon": 2.588
+  },
+  {
+    "week_of": "2021-02-08T00:00:00",
+    "dollars_per_gallon": 2.548
+  },
+  {
+    "week_of": "2021-02-01T00:00:00",
+    "dollars_per_gallon": 2.495
+  },
+  {
+    "week_of": "2021-01-25T00:00:00",
+    "dollars_per_gallon": 2.478
+  },
+  {
+    "week_of": "2021-01-18T00:00:00",
+    "dollars_per_gallon": 2.464
+  },
+  {
+    "week_of": "2021-01-11T00:00:00",
+    "dollars_per_gallon": 2.403
+  },
+  {
+    "week_of": "2021-01-04T00:00:00",
+    "dollars_per_gallon": 2.336
+  },
+  {
+    "week_of": "2020-12-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-12-21T00:00:00",
+    "dollars_per_gallon": 2.311
+  },
+  {
+    "week_of": "2020-12-14T00:00:00",
+    "dollars_per_gallon": 2.247
+  },
+  {
+    "week_of": "2020-12-07T00:00:00",
+    "dollars_per_gallon": 2.246
+  },
+  {
+    "week_of": "2020-11-30T00:00:00",
+    "dollars_per_gallon": 2.211
+  },
+  {
+    "week_of": "2020-11-23T00:00:00",
+    "dollars_per_gallon": 2.194
+  },
+  {
+    "week_of": "2020-11-16T00:00:00",
+    "dollars_per_gallon": 2.202
+  },
+  {
+    "week_of": "2020-11-09T00:00:00",
+    "dollars_per_gallon": 2.188
+  },
+  {
+    "week_of": "2020-11-02T00:00:00",
+    "dollars_per_gallon": 2.204
+  },
+  {
+    "week_of": "2020-10-26T00:00:00",
+    "dollars_per_gallon": 2.234
+  },
+  {
+    "week_of": "2020-10-19T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-10-12T00:00:00",
+    "dollars_per_gallon": 2.257
+  },
+  {
+    "week_of": "2020-10-05T00:00:00",
+    "dollars_per_gallon": 2.262
+  },
+  {
+    "week_of": "2020-09-28T00:00:00",
+    "dollars_per_gallon": 2.259
+  },
+  {
+    "week_of": "2020-09-21T00:00:00",
+    "dollars_per_gallon": 2.259
+  },
+  {
+    "week_of": "2020-09-14T00:00:00",
+    "dollars_per_gallon": 2.274
+  },
+  {
+    "week_of": "2020-09-07T00:00:00",
+    "dollars_per_gallon": 2.302
+  },
+  {
+    "week_of": "2020-08-31T00:00:00",
+    "dollars_per_gallon": 2.311
+  },
+  {
+    "week_of": "2020-08-24T00:00:00",
+    "dollars_per_gallon": 2.272
+  },
+  {
+    "week_of": "2020-08-17T00:00:00",
+    "dollars_per_gallon": 2.256
+  },
+  {
+    "week_of": "2020-08-10T00:00:00",
+    "dollars_per_gallon": 2.256
+  },
+  {
+    "week_of": "2020-08-03T00:00:00",
+    "dollars_per_gallon": 2.266
+  },
+  {
+    "week_of": "2020-07-27T00:00:00",
+    "dollars_per_gallon": 2.265
+  },
+  {
+    "week_of": "2020-07-20T00:00:00",
+    "dollars_per_gallon": 2.275
+  },
+  {
+    "week_of": "2020-07-13T00:00:00",
+    "dollars_per_gallon": 2.283
+  },
+  {
+    "week_of": "2020-07-06T00:00:00",
+    "dollars_per_gallon": 2.265
+  },
+  {
+    "week_of": "2020-06-29T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-06-22T00:00:00",
+    "dollars_per_gallon": 2.216
+  },
+  {
+    "week_of": "2020-06-15T00:00:00",
+    "dollars_per_gallon": 2.185
+  },
+  {
+    "week_of": "2020-06-08T00:00:00",
+    "dollars_per_gallon": 2.123
+  },
+  {
+    "week_of": "2020-06-01T00:00:00",
+    "dollars_per_gallon": 2.064
+  },
+  {
+    "week_of": "2020-05-25T00:00:00",
+    "dollars_per_gallon": 2.049
+  },
+  {
+    "week_of": "2020-05-18T00:00:00",
+    "dollars_per_gallon": 1.969
+  },
+  {
+    "week_of": "2020-05-11T00:00:00",
+    "dollars_per_gallon": 1.941
+  },
+  {
+    "week_of": "2020-05-04T00:00:00",
+    "dollars_per_gallon": 1.883
+  },
+  {
+    "week_of": "2020-04-27T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-04-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2020-04-13T00:00:00",
+    "dollars_per_gallon": 1.951
+  },
+  {
+    "week_of": "2020-04-06T00:00:00",
+    "dollars_per_gallon": 2.022
+  },
+  {
+    "week_of": "2020-03-30T00:00:00",
+    "dollars_per_gallon": 2.103
+  },
+  {
+    "week_of": "2020-03-23T00:00:00",
+    "dollars_per_gallon": 2.217
+  },
+  {
+    "week_of": "2020-03-16T00:00:00",
+    "dollars_per_gallon": 2.343
+  },
+  {
+    "week_of": "2020-03-09T00:00:00",
+    "dollars_per_gallon": 2.468
+  },
+  {
+    "week_of": "2020-03-02T00:00:00",
+    "dollars_per_gallon": 2.514
+  },
+  {
+    "week_of": "2020-02-24T00:00:00",
+    "dollars_per_gallon": 2.555
+  },
+  {
+    "week_of": "2020-02-17T00:00:00",
+    "dollars_per_gallon": 2.518
+  },
+  {
+    "week_of": "2020-02-10T00:00:00",
+    "dollars_per_gallon": 2.511
+  },
+  {
+    "week_of": "2020-02-03T00:00:00",
+    "dollars_per_gallon": 2.546
+  },
+  {
+    "week_of": "2020-01-27T00:00:00",
+    "dollars_per_gallon": 2.595
+  },
+  {
+    "week_of": "2020-01-20T00:00:00",
+    "dollars_per_gallon": 2.625
+  },
+  {
+    "week_of": "2020-01-13T00:00:00",
+    "dollars_per_gallon": 2.657
+  },
+  {
+    "week_of": "2020-01-06T00:00:00",
+    "dollars_per_gallon": 2.665
+  },
+  {
+    "week_of": "2019-12-30T00:00:00",
+    "dollars_per_gallon": 2.658
+  },
+  {
+    "week_of": "2019-12-23T00:00:00",
+    "dollars_per_gallon": 2.621
+  },
+  {
+    "week_of": "2019-12-16T00:00:00",
+    "dollars_per_gallon": 2.627
+  },
+  {
+    "week_of": "2019-12-09T00:00:00",
+    "dollars_per_gallon": 2.652
+  },
+  {
+    "week_of": "2019-12-02T00:00:00",
+    "dollars_per_gallon": 2.667
+  },
+  {
+    "week_of": "2019-11-25T00:00:00",
+    "dollars_per_gallon": 2.672
+  },
+  {
+    "week_of": "2019-11-18T00:00:00",
+    "dollars_per_gallon": 2.688
+  },
+  {
+    "week_of": "2019-11-11T00:00:00",
+    "dollars_per_gallon": 2.711
+  },
+  {
+    "week_of": "2019-11-04T00:00:00",
+    "dollars_per_gallon": 2.702
+  },
+  {
+    "week_of": "2019-10-28T00:00:00",
+    "dollars_per_gallon": 2.692
+  },
+  {
+    "week_of": "2019-10-21T00:00:00",
+    "dollars_per_gallon": 2.735
+  },
+  {
+    "week_of": "2019-10-14T00:00:00",
+    "dollars_per_gallon": 2.727
+  },
+  {
+    "week_of": "2019-10-07T00:00:00",
+    "dollars_per_gallon": 2.742
+  },
+  {
+    "week_of": "2019-09-30T00:00:00",
+    "dollars_per_gallon": 2.737
+  },
+  {
+    "week_of": "2019-09-23T00:00:00",
+    "dollars_per_gallon": 2.741
+  },
+  {
+    "week_of": "2019-09-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-09-09T00:00:00",
+    "dollars_per_gallon": 2.638
+  },
+  {
+    "week_of": "2019-09-02T00:00:00",
+    "dollars_per_gallon": 2.651
+  },
+  {
+    "week_of": "2019-08-26T00:00:00",
+    "dollars_per_gallon": 2.661
+  },
+  {
+    "week_of": "2019-08-19T00:00:00",
+    "dollars_per_gallon": 2.684
+  },
+  {
+    "week_of": "2019-08-12T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-08-05T00:00:00",
+    "dollars_per_gallon": 2.772
+  },
+  {
+    "week_of": "2019-07-29T00:00:00",
+    "dollars_per_gallon": 2.798
+  },
+  {
+    "week_of": "2019-07-22T00:00:00",
+    "dollars_per_gallon": 2.833
+  },
+  {
+    "week_of": "2019-07-15T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-07-08T00:00:00",
+    "dollars_per_gallon": 2.827
+  },
+  {
+    "week_of": "2019-07-01T00:00:00",
+    "dollars_per_gallon": 2.798
+  },
+  {
+    "week_of": "2019-06-24T00:00:00",
+    "dollars_per_gallon": 2.741
+  },
+  {
+    "week_of": "2019-06-17T00:00:00",
+    "dollars_per_gallon": 2.759
+  },
+  {
+    "week_of": "2019-06-10T00:00:00",
+    "dollars_per_gallon": 2.821
+  },
+  {
+    "week_of": "2019-06-03T00:00:00",
+    "dollars_per_gallon": 2.893
+  },
+  {
+    "week_of": "2019-05-27T00:00:00",
+    "dollars_per_gallon": 2.909
+  },
+  {
+    "week_of": "2019-05-20T00:00:00",
+    "dollars_per_gallon": 2.939
+  },
+  {
+    "week_of": "2019-05-13T00:00:00",
+    "dollars_per_gallon": 2.954
+  },
+  {
+    "week_of": "2019-05-06T00:00:00",
+    "dollars_per_gallon": 2.983
+  },
+  {
+    "week_of": "2019-04-29T00:00:00",
+    "dollars_per_gallon": 2.972
+  },
+  {
+    "week_of": "2019-04-22T00:00:00",
+    "dollars_per_gallon": 2.926
+  },
+  {
+    "week_of": "2019-04-15T00:00:00",
+    "dollars_per_gallon": 2.912
+  },
+  {
+    "week_of": "2019-04-08T00:00:00",
+    "dollars_per_gallon": 2.826
+  },
+  {
+    "week_of": "2019-04-01T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-03-25T00:00:00",
+    "dollars_per_gallon": 2.701
+  },
+  {
+    "week_of": "2019-03-18T00:00:00",
+    "dollars_per_gallon": 2.625
+  },
+  {
+    "week_of": "2019-03-11T00:00:00",
+    "dollars_per_gallon": 2.549
+  },
+  {
+    "week_of": "2019-03-04T00:00:00",
+    "dollars_per_gallon": 2.502
+  },
+  {
+    "week_of": "2019-02-25T00:00:00",
+    "dollars_per_gallon": 2.471
+  },
+  {
+    "week_of": "2019-02-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-02-11T00:00:00",
+    "dollars_per_gallon": 2.361
+  },
+  {
+    "week_of": "2019-02-04T00:00:00",
+    "dollars_per_gallon": 2.341
+  },
+  {
+    "week_of": "2019-01-28T00:00:00",
+    "dollars_per_gallon": 2.343
+  },
+  {
+    "week_of": "2019-01-21T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2019-01-14T00:00:00",
+    "dollars_per_gallon": 2.338
+  },
+  {
+    "week_of": "2019-01-07T00:00:00",
+    "dollars_per_gallon": 2.329
+  },
+  {
+    "week_of": "2018-12-31T00:00:00",
+    "dollars_per_gallon": 2.358
+  },
+  {
+    "week_of": "2018-12-24T00:00:00",
+    "dollars_per_gallon": 2.413
+  },
+  {
+    "week_of": "2018-12-17T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-12-10T00:00:00",
+    "dollars_per_gallon": 2.511
+  },
+  {
+    "week_of": "2018-12-03T00:00:00",
+    "dollars_per_gallon": 2.544
+  },
+  {
+    "week_of": "2018-11-26T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-11-19T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-11-12T00:00:00",
+    "dollars_per_gallon": 2.773
+  },
+  {
+    "week_of": "2018-11-05T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-10-29T00:00:00",
+    "dollars_per_gallon": 2.896
+  },
+  {
+    "week_of": "2018-10-22T00:00:00",
+    "dollars_per_gallon": 2.925
+  },
+  {
+    "week_of": "2018-10-15T00:00:00",
+    "dollars_per_gallon": 2.961
+  },
+  {
+    "week_of": "2018-10-08T00:00:00",
+    "dollars_per_gallon": 2.984
+  },
+  {
+    "week_of": "2018-10-01T00:00:00",
+    "dollars_per_gallon": 2.947
+  },
+  {
+    "week_of": "2018-09-24T00:00:00",
+    "dollars_per_gallon": 2.923
+  },
+  {
+    "week_of": "2018-09-17T00:00:00",
+    "dollars_per_gallon": 2.921
+  },
+  {
+    "week_of": "2018-09-10T00:00:00",
+    "dollars_per_gallon": 2.912
+  },
+  {
+    "week_of": "2018-09-03T00:00:00",
+    "dollars_per_gallon": 2.903
+  },
+  {
+    "week_of": "2018-08-27T00:00:00",
+    "dollars_per_gallon": 2.906
+  },
+  {
+    "week_of": "2018-08-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-08-13T00:00:00",
+    "dollars_per_gallon": 2.921
+  },
+  {
+    "week_of": "2018-08-06T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-07-30T00:00:00",
+    "dollars_per_gallon": 2.924
+  },
+  {
+    "week_of": "2018-07-23T00:00:00",
+    "dollars_per_gallon": 2.911
+  },
+  {
+    "week_of": "2018-07-16T00:00:00",
+    "dollars_per_gallon": 2.943
+  },
+  {
+    "week_of": "2018-07-09T00:00:00",
+    "dollars_per_gallon": 2.937
+  },
+  {
+    "week_of": "2018-07-02T00:00:00",
+    "dollars_per_gallon": 2.924
+  },
+  {
+    "week_of": "2018-06-25T00:00:00",
+    "dollars_per_gallon": 2.913
+  },
+  {
+    "week_of": "2018-06-18T00:00:00",
+    "dollars_per_gallon": 2.958
+  },
+  {
+    "week_of": "2018-06-11T00:00:00",
+    "dollars_per_gallon": 2.989
+  },
+  {
+    "week_of": "2018-06-04T00:00:00",
+    "dollars_per_gallon": 3.018
+  },
+  {
+    "week_of": "2018-05-28T00:00:00",
+    "dollars_per_gallon": 3.039
+  },
+  {
+    "week_of": "2018-05-21T00:00:00",
+    "dollars_per_gallon": 2.999
+  },
+  {
+    "week_of": "2018-05-14T00:00:00",
+    "dollars_per_gallon": 2.949
+  },
+  {
+    "week_of": "2018-05-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2018-04-30T00:00:00",
+    "dollars_per_gallon": 2.961
+  },
+  {
+    "week_of": "2018-04-23T00:00:00",
+    "dollars_per_gallon": 2.914
+  },
+  {
+    "week_of": "2018-04-16T00:00:00",
+    "dollars_per_gallon": 2.863
+  },
+  {
+    "week_of": "2018-04-09T00:00:00",
+    "dollars_per_gallon": 2.811
+  },
+  {
+    "week_of": "2018-04-02T00:00:00",
+    "dollars_per_gallon": 2.817
+  },
+  {
+    "week_of": "2018-03-26T00:00:00",
+    "dollars_per_gallon": 2.764
+  },
+  {
+    "week_of": "2018-03-19T00:00:00",
+    "dollars_per_gallon": 2.716
+  },
+  {
+    "week_of": "2018-03-12T00:00:00",
+    "dollars_per_gallon": 2.677
+  },
+  {
+    "week_of": "2018-03-05T00:00:00",
+    "dollars_per_gallon": 2.679
+  },
+  {
+    "week_of": "2018-02-26T00:00:00",
+    "dollars_per_gallon": 2.666
+  },
+  {
+    "week_of": "2018-02-19T00:00:00",
+    "dollars_per_gallon": 2.676
+  },
+  {
+    "week_of": "2018-02-12T00:00:00",
+    "dollars_per_gallon": 2.724
+  },
+  {
+    "week_of": "2018-02-05T00:00:00",
+    "dollars_per_gallon": 2.753
+  },
+  {
+    "week_of": "2018-01-29T00:00:00",
+    "dollars_per_gallon": 2.723
+  },
+  {
+    "week_of": "2018-01-22T00:00:00",
+    "dollars_per_gallon": 2.684
+  },
+  {
+    "week_of": "2018-01-15T00:00:00",
+    "dollars_per_gallon": 2.673
+  },
+  {
+    "week_of": "2018-01-08T00:00:00",
+    "dollars_per_gallon": 2.639
+  },
+  {
+    "week_of": "2018-01-01T00:00:00",
+    "dollars_per_gallon": 2.637
+  },
+  {
+    "week_of": "2017-12-25T00:00:00",
+    "dollars_per_gallon": 2.589
+  },
+  {
+    "week_of": "2017-12-18T00:00:00",
+    "dollars_per_gallon": 2.568
+  },
+  {
+    "week_of": "2017-12-11T00:00:00",
+    "dollars_per_gallon": 2.601
+  },
+  {
+    "week_of": "2017-12-04T00:00:00",
+    "dollars_per_gallon": 2.617
+  },
+  {
+    "week_of": "2017-11-27T00:00:00",
+    "dollars_per_gallon": 2.648
+  },
+  {
+    "week_of": "2017-11-20T00:00:00",
+    "dollars_per_gallon": 2.683
+  },
+  {
+    "week_of": "2017-11-13T00:00:00",
+    "dollars_per_gallon": 2.706
+  },
+  {
+    "week_of": "2017-11-06T00:00:00",
+    "dollars_per_gallon": 2.673
+  },
+  {
+    "week_of": "2017-10-30T00:00:00",
+    "dollars_per_gallon": 2.602
+  },
+  {
+    "week_of": "2017-10-23T00:00:00",
+    "dollars_per_gallon": 2.594
+  },
+  {
+    "week_of": "2017-10-16T00:00:00",
+    "dollars_per_gallon": 2.605
+  },
+  {
+    "week_of": "2017-10-09T00:00:00",
+    "dollars_per_gallon": 2.622
+  },
+  {
+    "week_of": "2017-10-02T00:00:00",
+    "dollars_per_gallon": 2.682
+  },
+  {
+    "week_of": "2017-09-25T00:00:00",
+    "dollars_per_gallon": 2.701
+  },
+  {
+    "week_of": "2017-09-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2017-09-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2017-09-04T00:00:00",
+    "dollars_per_gallon": 2.794
+  },
+  {
+    "week_of": "2017-08-28T00:00:00",
+    "dollars_per_gallon": 2.513
+  },
+  {
+    "week_of": "2017-08-21T00:00:00",
+    "dollars_per_gallon": 2.474
+  },
+  {
+    "week_of": "2017-08-14T00:00:00",
+    "dollars_per_gallon": 2.497
+  },
+  {
+    "week_of": "2017-08-07T00:00:00",
+    "dollars_per_gallon": 2.492
+  },
+  {
+    "week_of": "2017-07-31T00:00:00",
+    "dollars_per_gallon": 2.467
+  },
+  {
+    "week_of": "2017-07-24T00:00:00",
+    "dollars_per_gallon": 2.426
+  },
+  {
+    "week_of": "2017-07-17T00:00:00",
+    "dollars_per_gallon": 2.392
+  },
+  {
+    "week_of": "2017-07-10T00:00:00",
+    "dollars_per_gallon": 2.411
+  },
+  {
+    "week_of": "2017-07-03T00:00:00",
+    "dollars_per_gallon": 2.376
+  },
+  {
+    "week_of": "2017-06-26T00:00:00",
+    "dollars_per_gallon": 2.404
+  },
+  {
+    "week_of": "2017-06-19T00:00:00",
+    "dollars_per_gallon": 2.433
+  },
+  {
+    "week_of": "2017-06-12T00:00:00",
+    "dollars_per_gallon": 2.479
+  },
+  {
+    "week_of": "2017-06-05T00:00:00",
+    "dollars_per_gallon": 2.525
+  },
+  {
+    "week_of": "2017-05-29T00:00:00",
+    "dollars_per_gallon": 2.516
+  },
+  {
+    "week_of": "2017-05-22T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2017-05-15T00:00:00",
+    "dollars_per_gallon": 2.481
+  },
+  {
+    "week_of": "2017-05-08T00:00:00",
+    "dollars_per_gallon": 2.484
+  },
+  {
+    "week_of": "2017-05-01T00:00:00",
+    "dollars_per_gallon": 2.522
+  },
+  {
+    "week_of": "2017-04-24T00:00:00",
+    "dollars_per_gallon": 2.559
+  },
+  {
+    "week_of": "2017-04-17T00:00:00",
+    "dollars_per_gallon": 2.546
+  },
+  {
+    "week_of": "2017-04-10T00:00:00",
+    "dollars_per_gallon": 2.534
+  },
+  {
+    "week_of": "2017-04-03T00:00:00",
+    "dollars_per_gallon": 2.471
+  },
+  {
+    "week_of": "2017-03-27T00:00:00",
+    "dollars_per_gallon": 2.428
+  },
+  {
+    "week_of": "2017-03-20T00:00:00",
+    "dollars_per_gallon": 2.433
+  },
+  {
+    "week_of": "2017-03-13T00:00:00",
+    "dollars_per_gallon": 2.434
+  },
+  {
+    "week_of": "2017-03-06T00:00:00",
+    "dollars_per_gallon": 2.452
+  },
+  {
+    "week_of": "2017-02-27T00:00:00",
+    "dollars_per_gallon": 2.427
+  },
+  {
+    "week_of": "2017-02-20T00:00:00",
+    "dollars_per_gallon": 2.414
+  },
+  {
+    "week_of": "2017-02-13T00:00:00",
+    "dollars_per_gallon": 2.418
+  },
+  {
+    "week_of": "2017-02-06T00:00:00",
+    "dollars_per_gallon": 2.405
+  },
+  {
+    "week_of": "2017-01-30T00:00:00",
+    "dollars_per_gallon": 2.408
+  },
+  {
+    "week_of": "2017-01-23T00:00:00",
+    "dollars_per_gallon": 2.436
+  },
+  {
+    "week_of": "2017-01-16T00:00:00",
+    "dollars_per_gallon": 2.467
+  },
+  {
+    "week_of": "2017-01-09T00:00:00",
+    "dollars_per_gallon": 2.496
+  },
+  {
+    "week_of": "2017-01-02T00:00:00",
+    "dollars_per_gallon": 2.485
+  },
+  {
+    "week_of": "2016-12-26T00:00:00",
+    "dollars_per_gallon": 2.419
+  },
+  {
+    "week_of": "2016-12-19T00:00:00",
+    "dollars_per_gallon": 2.375
+  },
+  {
+    "week_of": "2016-12-12T00:00:00",
+    "dollars_per_gallon": 2.347
+  },
+  {
+    "week_of": "2016-12-05T00:00:00",
+    "dollars_per_gallon": 2.321
+  },
+  {
+    "week_of": "2016-11-28T00:00:00",
+    "dollars_per_gallon": 2.268
+  },
+  {
+    "week_of": "2016-11-21T00:00:00",
+    "dollars_per_gallon": 2.269
+  },
+  {
+    "week_of": "2016-11-14T00:00:00",
+    "dollars_per_gallon": 2.298
+  },
+  {
+    "week_of": "2016-11-07T00:00:00",
+    "dollars_per_gallon": 2.345
+  },
+  {
+    "week_of": "2016-10-31T00:00:00",
+    "dollars_per_gallon": 2.341
+  },
+  {
+    "week_of": "2016-10-24T00:00:00",
+    "dollars_per_gallon": 2.353
+  },
+  {
+    "week_of": "2016-10-17T00:00:00",
+    "dollars_per_gallon": 2.367
+  },
+  {
+    "week_of": "2016-10-10T00:00:00",
+    "dollars_per_gallon": 2.381
+  },
+  {
+    "week_of": "2016-10-03T00:00:00",
+    "dollars_per_gallon": 2.354
+  },
+  {
+    "week_of": "2016-09-26T00:00:00",
+    "dollars_per_gallon": 2.334
+  },
+  {
+    "week_of": "2016-09-19T00:00:00",
+    "dollars_per_gallon": 2.333
+  },
+  {
+    "week_of": "2016-09-12T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2016-09-05T00:00:00",
+    "dollars_per_gallon": 2.329
+  },
+  {
+    "week_of": "2016-08-29T00:00:00",
+    "dollars_per_gallon": 2.341
+  },
+  {
+    "week_of": "2016-08-22T00:00:00",
+    "dollars_per_gallon": 2.299
+  },
+  {
+    "week_of": "2016-08-15T00:00:00",
+    "dollars_per_gallon": 2.256
+  },
+  {
+    "week_of": "2016-08-08T00:00:00",
+    "dollars_per_gallon": 2.256
+  },
+  {
+    "week_of": "2016-08-01T00:00:00",
+    "dollars_per_gallon": 2.267
+  },
+  {
+    "week_of": "2016-07-25T00:00:00",
+    "dollars_per_gallon": 2.289
+  },
+  {
+    "week_of": "2016-07-18T00:00:00",
+    "dollars_per_gallon": 2.336
+  },
+  {
+    "week_of": "2016-07-11T00:00:00",
+    "dollars_per_gallon": 2.359
+  },
+  {
+    "week_of": "2016-07-04T00:00:00",
+    "dollars_per_gallon": 2.396
+  },
+  {
+    "week_of": "2016-06-27T00:00:00",
+    "dollars_per_gallon": 2.432
+  },
+  {
+    "week_of": "2016-06-20T00:00:00",
+    "dollars_per_gallon": 2.455
+  },
+  {
+    "week_of": "2016-06-13T00:00:00",
+    "dollars_per_gallon": 2.499
+  },
+  {
+    "week_of": "2016-06-06T00:00:00",
+    "dollars_per_gallon": 2.482
+  },
+  {
+    "week_of": "2016-05-30T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2016-05-23T00:00:00",
+    "dollars_per_gallon": 2.403
+  },
+  {
+    "week_of": "2016-05-16T00:00:00",
+    "dollars_per_gallon": 2.345
+  },
+  {
+    "week_of": "2016-05-09T00:00:00",
+    "dollars_per_gallon": 2.325
+  },
+  {
+    "week_of": "2016-05-02T00:00:00",
+    "dollars_per_gallon": 2.342
+  },
+  {
+    "week_of": "2016-04-25T00:00:00",
+    "dollars_per_gallon": 2.265
+  },
+  {
+    "week_of": "2016-04-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2016-04-11T00:00:00",
+    "dollars_per_gallon": 2.173
+  },
+  {
+    "week_of": "2016-04-04T00:00:00",
+    "dollars_per_gallon": 2.185
+  },
+  {
+    "week_of": "2016-03-28T00:00:00",
+    "dollars_per_gallon": 2.169
+  },
+  {
+    "week_of": "2016-03-21T00:00:00",
+    "dollars_per_gallon": 2.109
+  },
+  {
+    "week_of": "2016-03-14T00:00:00",
+    "dollars_per_gallon": 2.062
+  },
+  {
+    "week_of": "2016-03-07T00:00:00",
+    "dollars_per_gallon": 1.943
+  },
+  {
+    "week_of": "2016-02-29T00:00:00",
+    "dollars_per_gallon": 1.887
+  },
+  {
+    "week_of": "2016-02-22T00:00:00",
+    "dollars_per_gallon": 1.837
+  },
+  {
+    "week_of": "2016-02-15T00:00:00",
+    "dollars_per_gallon": 1.834
+  },
+  {
+    "week_of": "2016-02-08T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2016-02-01T00:00:00",
+    "dollars_per_gallon": 1.932
+  },
+  {
+    "week_of": "2016-01-25T00:00:00",
+    "dollars_per_gallon": 1.965
+  },
+  {
+    "week_of": "2016-01-18T00:00:00",
+    "dollars_per_gallon": 2.022
+  },
+  {
+    "week_of": "2016-01-11T00:00:00",
+    "dollars_per_gallon": 2.104
+  },
+  {
+    "week_of": "2016-01-04T00:00:00",
+    "dollars_per_gallon": 2.135
+  },
+  {
+    "week_of": "2015-12-28T00:00:00",
+    "dollars_per_gallon": 2.141
+  },
+  {
+    "week_of": "2015-12-21T00:00:00",
+    "dollars_per_gallon": 2.133
+  },
+  {
+    "week_of": "2015-12-14T00:00:00",
+    "dollars_per_gallon": 2.144
+  },
+  {
+    "week_of": "2015-12-07T00:00:00",
+    "dollars_per_gallon": 2.159
+  },
+  {
+    "week_of": "2015-11-30T00:00:00",
+    "dollars_per_gallon": 2.165
+  },
+  {
+    "week_of": "2015-11-23T00:00:00",
+    "dollars_per_gallon": 2.198
+  },
+  {
+    "week_of": "2015-11-16T00:00:00",
+    "dollars_per_gallon": 2.281
+  },
+  {
+    "week_of": "2015-11-09T00:00:00",
+    "dollars_per_gallon": 2.335
+  },
+  {
+    "week_of": "2015-11-02T00:00:00",
+    "dollars_per_gallon": 2.322
+  },
+  {
+    "week_of": "2015-10-26T00:00:00",
+    "dollars_per_gallon": 2.326
+  },
+  {
+    "week_of": "2015-10-19T00:00:00",
+    "dollars_per_gallon": 2.374
+  },
+  {
+    "week_of": "2015-10-12T00:00:00",
+    "dollars_per_gallon": 2.432
+  },
+  {
+    "week_of": "2015-10-05T00:00:00",
+    "dollars_per_gallon": 2.415
+  },
+  {
+    "week_of": "2015-09-28T00:00:00",
+    "dollars_per_gallon": 2.418
+  },
+  {
+    "week_of": "2015-09-21T00:00:00",
+    "dollars_per_gallon": 2.425
+  },
+  {
+    "week_of": "2015-09-14T00:00:00",
+    "dollars_per_gallon": 2.471
+  },
+  {
+    "week_of": "2015-09-07T00:00:00",
+    "dollars_per_gallon": 2.532
+  },
+  {
+    "week_of": "2015-08-31T00:00:00",
+    "dollars_per_gallon": 2.602
+  },
+  {
+    "week_of": "2015-08-24T00:00:00",
+    "dollars_per_gallon": 2.726
+  },
+  {
+    "week_of": "2015-08-17T00:00:00",
+    "dollars_per_gallon": 2.803
+  },
+  {
+    "week_of": "2015-08-10T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2015-08-03T00:00:00",
+    "dollars_per_gallon": 2.779
+  },
+  {
+    "week_of": "2015-07-27T00:00:00",
+    "dollars_per_gallon": 2.833
+  },
+  {
+    "week_of": "2015-07-20T00:00:00",
+    "dollars_per_gallon": 2.888
+  },
+  {
+    "week_of": "2015-07-13T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2015-07-06T00:00:00",
+    "dollars_per_gallon": 2.877
+  },
+  {
+    "week_of": "2015-06-29T00:00:00",
+    "dollars_per_gallon": 2.885
+  },
+  {
+    "week_of": "2015-06-22T00:00:00",
+    "dollars_per_gallon": 2.895
+  },
+  {
+    "week_of": "2015-06-15T00:00:00",
+    "dollars_per_gallon": 2.918
+  },
+  {
+    "week_of": "2015-06-08T00:00:00",
+    "dollars_per_gallon": 2.863
+  },
+  {
+    "week_of": "2015-06-01T00:00:00",
+    "dollars_per_gallon": 2.863
+  },
+  {
+    "week_of": "2015-05-25T00:00:00",
+    "dollars_per_gallon": 2.857
+  },
+  {
+    "week_of": "2015-05-18T00:00:00",
+    "dollars_per_gallon": 2.827
+  },
+  {
+    "week_of": "2015-05-11T00:00:00",
+    "dollars_per_gallon": 2.776
+  },
+  {
+    "week_of": "2015-05-04T00:00:00",
+    "dollars_per_gallon": 2.749
+  },
+  {
+    "week_of": "2015-04-27T00:00:00",
+    "dollars_per_gallon": 2.656
+  },
+  {
+    "week_of": "2015-04-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2015-04-13T00:00:00",
+    "dollars_per_gallon": 2.494
+  },
+  {
+    "week_of": "2015-04-06T00:00:00",
+    "dollars_per_gallon": 2.499
+  },
+  {
+    "week_of": "2015-03-30T00:00:00",
+    "dollars_per_gallon": 2.531
+  },
+  {
+    "week_of": "2015-03-23T00:00:00",
+    "dollars_per_gallon": 2.538
+  },
+  {
+    "week_of": "2015-03-16T00:00:00",
+    "dollars_per_gallon": 2.537
+  },
+  {
+    "week_of": "2015-03-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2015-03-02T00:00:00",
+    "dollars_per_gallon": 2.556
+  },
+  {
+    "week_of": "2015-02-23T00:00:00",
+    "dollars_per_gallon": 2.415
+  },
+  {
+    "week_of": "2015-02-16T00:00:00",
+    "dollars_per_gallon": 2.358
+  },
+  {
+    "week_of": "2015-02-09T00:00:00",
+    "dollars_per_gallon": 2.276
+  },
+  {
+    "week_of": "2015-02-02T00:00:00",
+    "dollars_per_gallon": 2.154
+  },
+  {
+    "week_of": "2015-01-26T00:00:00",
+    "dollars_per_gallon": 2.133
+  },
+  {
+    "week_of": "2015-01-19T00:00:00",
+    "dollars_per_gallon": 2.157
+  },
+  {
+    "week_of": "2015-01-12T00:00:00",
+    "dollars_per_gallon": 2.232
+  },
+  {
+    "week_of": "2015-01-05T00:00:00",
+    "dollars_per_gallon": 2.308
+  },
+  {
+    "week_of": "2014-12-29T00:00:00",
+    "dollars_per_gallon": 2.392
+  },
+  {
+    "week_of": "2014-12-22T00:00:00",
+    "dollars_per_gallon": 2.496
+  },
+  {
+    "week_of": "2014-12-15T00:00:00",
+    "dollars_per_gallon": 2.643
+  },
+  {
+    "week_of": "2014-12-08T00:00:00",
+    "dollars_per_gallon": 2.767
+  },
+  {
+    "week_of": "2014-12-01T00:00:00",
+    "dollars_per_gallon": 2.864
+  },
+  {
+    "week_of": "2014-11-24T00:00:00",
+    "dollars_per_gallon": 2.907
+  },
+  {
+    "week_of": "2014-11-17T00:00:00",
+    "dollars_per_gallon": 2.978
+  },
+  {
+    "week_of": "2014-11-10T00:00:00",
+    "dollars_per_gallon": 3.025
+  },
+  {
+    "week_of": "2014-11-03T00:00:00",
+    "dollars_per_gallon": 3.077
+  },
+  {
+    "week_of": "2014-10-27T00:00:00",
+    "dollars_per_gallon": 3.139
+  },
+  {
+    "week_of": "2014-10-20T00:00:00",
+    "dollars_per_gallon": 3.205
+  },
+  {
+    "week_of": "2014-10-13T00:00:00",
+    "dollars_per_gallon": 3.292
+  },
+  {
+    "week_of": "2014-10-06T00:00:00",
+    "dollars_per_gallon": 3.382
+  },
+  {
+    "week_of": "2014-09-29T00:00:00",
+    "dollars_per_gallon": 3.434
+  },
+  {
+    "week_of": "2014-09-22T00:00:00",
+    "dollars_per_gallon": 3.432
+  },
+  {
+    "week_of": "2014-09-15T00:00:00",
+    "dollars_per_gallon": 3.485
+  },
+  {
+    "week_of": "2014-09-08T00:00:00",
+    "dollars_per_gallon": 3.534
+  },
+  {
+    "week_of": "2014-09-01T00:00:00",
+    "dollars_per_gallon": 3.536
+  },
+  {
+    "week_of": "2014-08-25T00:00:00",
+    "dollars_per_gallon": 3.532
+  },
+  {
+    "week_of": "2014-08-18T00:00:00",
+    "dollars_per_gallon": 3.549
+  },
+  {
+    "week_of": "2014-08-11T00:00:00",
+    "dollars_per_gallon": 3.582
+  },
+  {
+    "week_of": "2014-08-04T00:00:00",
+    "dollars_per_gallon": 3.595
+  },
+  {
+    "week_of": "2014-07-28T00:00:00",
+    "dollars_per_gallon": 3.617
+  },
+  {
+    "week_of": "2014-07-21T00:00:00",
+    "dollars_per_gallon": 3.671
+  },
+  {
+    "week_of": "2014-07-14T00:00:00",
+    "dollars_per_gallon": 3.712
+  },
+  {
+    "week_of": "2014-07-07T00:00:00",
+    "dollars_per_gallon": 3.753
+  },
+  {
+    "week_of": "2014-06-30T00:00:00",
+    "dollars_per_gallon": 3.778
+  },
+  {
+    "week_of": "2014-06-23T00:00:00",
+    "dollars_per_gallon": 3.778
+  },
+  {
+    "week_of": "2014-06-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2014-06-09T00:00:00",
+    "dollars_per_gallon": 3.749
+  },
+  {
+    "week_of": "2014-06-02T00:00:00",
+    "dollars_per_gallon": 3.765
+  },
+  {
+    "week_of": "2014-05-26T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2014-05-19T00:00:00",
+    "dollars_per_gallon": 3.743
+  },
+  {
+    "week_of": "2014-05-12T00:00:00",
+    "dollars_per_gallon": 3.746
+  },
+  {
+    "week_of": "2014-05-05T00:00:00",
+    "dollars_per_gallon": 3.761
+  },
+  {
+    "week_of": "2014-04-28T00:00:00",
+    "dollars_per_gallon": 3.788
+  },
+  {
+    "week_of": "2014-04-21T00:00:00",
+    "dollars_per_gallon": 3.758
+  },
+  {
+    "week_of": "2014-04-14T00:00:00",
+    "dollars_per_gallon": 3.725
+  },
+  {
+    "week_of": "2014-04-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2014-03-31T00:00:00",
+    "dollars_per_gallon": 3.651
+  },
+  {
+    "week_of": "2014-03-24T00:00:00",
+    "dollars_per_gallon": 3.622
+  },
+  {
+    "week_of": "2014-03-17T00:00:00",
+    "dollars_per_gallon": 3.619
+  },
+  {
+    "week_of": "2014-03-10T00:00:00",
+    "dollars_per_gallon": 3.584
+  },
+  {
+    "week_of": "2014-03-03T00:00:00",
+    "dollars_per_gallon": 3.553
+  },
+  {
+    "week_of": "2014-02-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2014-02-17T00:00:00",
+    "dollars_per_gallon": 3.457
+  },
+  {
+    "week_of": "2014-02-10T00:00:00",
+    "dollars_per_gallon": 3.388
+  },
+  {
+    "week_of": "2014-02-03T00:00:00",
+    "dollars_per_gallon": 3.372
+  },
+  {
+    "week_of": "2014-01-27T00:00:00",
+    "dollars_per_gallon": 3.375
+  },
+  {
+    "week_of": "2014-01-20T00:00:00",
+    "dollars_per_gallon": 3.376
+  },
+  {
+    "week_of": "2014-01-13T00:00:00",
+    "dollars_per_gallon": 3.406
+  },
+  {
+    "week_of": "2014-01-06T00:00:00",
+    "dollars_per_gallon": 3.411
+  },
+  {
+    "week_of": "2013-12-30T00:00:00",
+    "dollars_per_gallon": 3.409
+  },
+  {
+    "week_of": "2013-12-23T00:00:00",
+    "dollars_per_gallon": 3.351
+  },
+  {
+    "week_of": "2013-12-16T00:00:00",
+    "dollars_per_gallon": 3.321
+  },
+  {
+    "week_of": "2013-12-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2013-12-02T00:00:00",
+    "dollars_per_gallon": 3.353
+  },
+  {
+    "week_of": "2013-11-25T00:00:00",
+    "dollars_per_gallon": 3.372
+  },
+  {
+    "week_of": "2013-11-18T00:00:00",
+    "dollars_per_gallon": 3.298
+  },
+  {
+    "week_of": "2013-11-11T00:00:00",
+    "dollars_per_gallon": 3.274
+  },
+  {
+    "week_of": "2013-11-04T00:00:00",
+    "dollars_per_gallon": 3.343
+  },
+  {
+    "week_of": "2013-10-28T00:00:00",
+    "dollars_per_gallon": 3.372
+  },
+  {
+    "week_of": "2013-10-21T00:00:00",
+    "dollars_per_gallon": 3.435
+  },
+  {
+    "week_of": "2013-10-14T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2013-10-07T00:00:00",
+    "dollars_per_gallon": 3.441
+  },
+  {
+    "week_of": "2013-09-30T00:00:00",
+    "dollars_per_gallon": 3.499
+  },
+  {
+    "week_of": "2013-09-23T00:00:00",
+    "dollars_per_gallon": 3.567
+  },
+  {
+    "week_of": "2013-09-16T00:00:00",
+    "dollars_per_gallon": 3.619
+  },
+  {
+    "week_of": "2013-09-09T00:00:00",
+    "dollars_per_gallon": 3.658
+  },
+  {
+    "week_of": "2013-09-02T00:00:00",
+    "dollars_per_gallon": 3.678
+  },
+  {
+    "week_of": "2013-08-26T00:00:00",
+    "dollars_per_gallon": 3.623
+  },
+  {
+    "week_of": "2013-08-19T00:00:00",
+    "dollars_per_gallon": 3.622
+  },
+  {
+    "week_of": "2013-08-12T00:00:00",
+    "dollars_per_gallon": 3.633
+  },
+  {
+    "week_of": "2013-08-05T00:00:00",
+    "dollars_per_gallon": 3.701
+  },
+  {
+    "week_of": "2013-07-29T00:00:00",
+    "dollars_per_gallon": 3.716
+  },
+  {
+    "week_of": "2013-07-22T00:00:00",
+    "dollars_per_gallon": 3.751
+  },
+  {
+    "week_of": "2013-07-15T00:00:00",
+    "dollars_per_gallon": 3.706
+  },
+  {
+    "week_of": "2013-07-08T00:00:00",
+    "dollars_per_gallon": 3.563
+  },
+  {
+    "week_of": "2013-07-01T00:00:00",
+    "dollars_per_gallon": 3.567
+  },
+  {
+    "week_of": "2013-06-24T00:00:00",
+    "dollars_per_gallon": 3.645
+  },
+  {
+    "week_of": "2013-06-17T00:00:00",
+    "dollars_per_gallon": 3.689
+  },
+  {
+    "week_of": "2013-06-10T00:00:00",
+    "dollars_per_gallon": 3.715
+  },
+  {
+    "week_of": "2013-06-03T00:00:00",
+    "dollars_per_gallon": 3.705
+  },
+  {
+    "week_of": "2013-05-27T00:00:00",
+    "dollars_per_gallon": 3.704
+  },
+  {
+    "week_of": "2013-05-20T00:00:00",
+    "dollars_per_gallon": 3.729
+  },
+  {
+    "week_of": "2013-05-13T00:00:00",
+    "dollars_per_gallon": 3.665
+  },
+  {
+    "week_of": "2013-05-06T00:00:00",
+    "dollars_per_gallon": 3.602
+  },
+  {
+    "week_of": "2013-04-29T00:00:00",
+    "dollars_per_gallon": 3.587
+  },
+  {
+    "week_of": "2013-04-22T00:00:00",
+    "dollars_per_gallon": 3.603
+  },
+  {
+    "week_of": "2013-04-15T00:00:00",
+    "dollars_per_gallon": 3.611
+  },
+  {
+    "week_of": "2013-04-08T00:00:00",
+    "dollars_per_gallon": 3.676
+  },
+  {
+    "week_of": "2013-04-01T00:00:00",
+    "dollars_per_gallon": 3.714
+  },
+  {
+    "week_of": "2013-03-25T00:00:00",
+    "dollars_per_gallon": 3.746
+  },
+  {
+    "week_of": "2013-03-18T00:00:00",
+    "dollars_per_gallon": 3.764
+  },
+  {
+    "week_of": "2013-03-11T00:00:00",
+    "dollars_per_gallon": 3.779
+  },
+  {
+    "week_of": "2013-03-04T00:00:00",
+    "dollars_per_gallon": 3.826
+  },
+  {
+    "week_of": "2013-02-25T00:00:00",
+    "dollars_per_gallon": 3.851
+  },
+  {
+    "week_of": "2013-02-18T00:00:00",
+    "dollars_per_gallon": 3.812
+  },
+  {
+    "week_of": "2013-02-11T00:00:00",
+    "dollars_per_gallon": 3.677
+  },
+  {
+    "week_of": "2013-02-04T00:00:00",
+    "dollars_per_gallon": 3.604
+  },
+  {
+    "week_of": "2013-01-28T00:00:00",
+    "dollars_per_gallon": 3.427
+  },
+  {
+    "week_of": "2013-01-21T00:00:00",
+    "dollars_per_gallon": 3.386
+  },
+  {
+    "week_of": "2013-01-14T00:00:00",
+    "dollars_per_gallon": 3.377
+  },
+  {
+    "week_of": "2013-01-07T00:00:00",
+    "dollars_per_gallon": 3.373
+  },
+  {
+    "week_of": "2012-12-31T00:00:00",
+    "dollars_per_gallon": 3.369
+  },
+  {
+    "week_of": "2012-12-24T00:00:00",
+    "dollars_per_gallon": 3.328
+  },
+  {
+    "week_of": "2012-12-17T00:00:00",
+    "dollars_per_gallon": 3.324
+  },
+  {
+    "week_of": "2012-12-10T00:00:00",
+    "dollars_per_gallon": 3.419
+  },
+  {
+    "week_of": "2012-12-03T00:00:00",
+    "dollars_per_gallon": 3.463
+  },
+  {
+    "week_of": "2012-11-26T00:00:00",
+    "dollars_per_gallon": 3.505
+  },
+  {
+    "week_of": "2012-11-19T00:00:00",
+    "dollars_per_gallon": 3.497
+  },
+  {
+    "week_of": "2012-11-12T00:00:00",
+    "dollars_per_gallon": 3.518
+  },
+  {
+    "week_of": "2012-11-05T00:00:00",
+    "dollars_per_gallon": 3.563
+  },
+  {
+    "week_of": "2012-10-29T00:00:00",
+    "dollars_per_gallon": 3.638
+  },
+  {
+    "week_of": "2012-10-22T00:00:00",
+    "dollars_per_gallon": 3.756
+  },
+  {
+    "week_of": "2012-10-15T00:00:00",
+    "dollars_per_gallon": 3.886
+  },
+  {
+    "week_of": "2012-10-08T00:00:00",
+    "dollars_per_gallon": 3.914
+  },
+  {
+    "week_of": "2012-10-01T00:00:00",
+    "dollars_per_gallon": 3.866
+  },
+  {
+    "week_of": "2012-09-24T00:00:00",
+    "dollars_per_gallon": 3.889
+  },
+  {
+    "week_of": "2012-09-17T00:00:00",
+    "dollars_per_gallon": 3.939
+  },
+  {
+    "week_of": "2012-09-10T00:00:00",
+    "dollars_per_gallon": 3.907
+  },
+  {
+    "week_of": "2012-09-03T00:00:00",
+    "dollars_per_gallon": 3.903
+  },
+  {
+    "week_of": "2012-08-27T00:00:00",
+    "dollars_per_gallon": 3.837
+  },
+  {
+    "week_of": "2012-08-20T00:00:00",
+    "dollars_per_gallon": 3.803
+  },
+  {
+    "week_of": "2012-08-13T00:00:00",
+    "dollars_per_gallon": 3.779
+  },
+  {
+    "week_of": "2012-08-06T00:00:00",
+    "dollars_per_gallon": 3.702
+  },
+  {
+    "week_of": "2012-07-30T00:00:00",
+    "dollars_per_gallon": 3.568
+  },
+  {
+    "week_of": "2012-07-23T00:00:00",
+    "dollars_per_gallon": 3.554
+  },
+  {
+    "week_of": "2012-07-16T00:00:00",
+    "dollars_per_gallon": 3.485
+  },
+  {
+    "week_of": "2012-07-09T00:00:00",
+    "dollars_per_gallon": 3.469
+  },
+  {
+    "week_of": "2012-07-02T00:00:00",
+    "dollars_per_gallon": 3.415
+  },
+  {
+    "week_of": "2012-06-25T00:00:00",
+    "dollars_per_gallon": 3.494
+  },
+  {
+    "week_of": "2012-06-18T00:00:00",
+    "dollars_per_gallon": 3.589
+  },
+  {
+    "week_of": "2012-06-11T00:00:00",
+    "dollars_per_gallon": 3.629
+  },
+  {
+    "week_of": "2012-06-04T00:00:00",
+    "dollars_per_gallon": 3.671
+  },
+  {
+    "week_of": "2012-05-28T00:00:00",
+    "dollars_per_gallon": 3.728
+  },
+  {
+    "week_of": "2012-05-21T00:00:00",
+    "dollars_per_gallon": 3.773
+  },
+  {
+    "week_of": "2012-05-14T00:00:00",
+    "dollars_per_gallon": 3.814
+  },
+  {
+    "week_of": "2012-05-07T00:00:00",
+    "dollars_per_gallon": 3.849
+  },
+  {
+    "week_of": "2012-04-30T00:00:00",
+    "dollars_per_gallon": 3.889
+  },
+  {
+    "week_of": "2012-04-23T00:00:00",
+    "dollars_per_gallon": 3.929
+  },
+  {
+    "week_of": "2012-04-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2012-04-09T00:00:00",
+    "dollars_per_gallon": 3.997
+  },
+  {
+    "week_of": "2012-04-02T00:00:00",
+    "dollars_per_gallon": 3.996
+  },
+  {
+    "week_of": "2012-03-26T00:00:00",
+    "dollars_per_gallon": 3.973
+  },
+  {
+    "week_of": "2012-03-19T00:00:00",
+    "dollars_per_gallon": 3.923
+  },
+  {
+    "week_of": "2012-03-12T00:00:00",
+    "dollars_per_gallon": 3.884
+  },
+  {
+    "week_of": "2012-03-05T00:00:00",
+    "dollars_per_gallon": 3.849
+  },
+  {
+    "week_of": "2012-02-27T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2012-02-20T00:00:00",
+    "dollars_per_gallon": 3.652
+  },
+  {
+    "week_of": "2012-02-13T00:00:00",
+    "dollars_per_gallon": 3.584
+  },
+  {
+    "week_of": "2012-02-06T00:00:00",
+    "dollars_per_gallon": 3.542
+  },
+  {
+    "week_of": "2012-01-30T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2012-01-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2012-01-16T00:00:00",
+    "dollars_per_gallon": 3.451
+  },
+  {
+    "week_of": "2012-01-09T00:00:00",
+    "dollars_per_gallon": 3.441
+  },
+  {
+    "week_of": "2012-01-02T00:00:00",
+    "dollars_per_gallon": 3.358
+  },
+  {
+    "week_of": "2011-12-26T00:00:00",
+    "dollars_per_gallon": 3.317
+  },
+  {
+    "week_of": "2011-12-19T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2011-12-12T00:00:00",
+    "dollars_per_gallon": 3.346
+  },
+  {
+    "week_of": "2011-12-05T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2011-11-28T00:00:00",
+    "dollars_per_gallon": 3.368
+  },
+  {
+    "week_of": "2011-11-21T00:00:00",
+    "dollars_per_gallon": 3.427
+  },
+  {
+    "week_of": "2011-11-14T00:00:00",
+    "dollars_per_gallon": 3.495
+  },
+  {
+    "week_of": "2011-11-07T00:00:00",
+    "dollars_per_gallon": 3.482
+  },
+  {
+    "week_of": "2011-10-31T00:00:00",
+    "dollars_per_gallon": 3.511
+  },
+  {
+    "week_of": "2011-10-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2011-10-17T00:00:00",
+    "dollars_per_gallon": 3.533
+  },
+  {
+    "week_of": "2011-10-10T00:00:00",
+    "dollars_per_gallon": 3.476
+  },
+  {
+    "week_of": "2011-10-03T00:00:00",
+    "dollars_per_gallon": 3.492
+  },
+  {
+    "week_of": "2011-09-26T00:00:00",
+    "dollars_per_gallon": 3.568
+  },
+  {
+    "week_of": "2011-09-19T00:00:00",
+    "dollars_per_gallon": 3.657
+  },
+  {
+    "week_of": "2011-09-12T00:00:00",
+    "dollars_per_gallon": 3.715
+  },
+  {
+    "week_of": "2011-09-05T00:00:00",
+    "dollars_per_gallon": 3.727
+  },
+  {
+    "week_of": "2011-08-29T00:00:00",
+    "dollars_per_gallon": 3.682
+  },
+  {
+    "week_of": "2011-08-22T00:00:00",
+    "dollars_per_gallon": 3.638
+  },
+  {
+    "week_of": "2011-08-15T00:00:00",
+    "dollars_per_gallon": 3.662
+  },
+  {
+    "week_of": "2011-08-08T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2011-08-01T00:00:00",
+    "dollars_per_gallon": 3.766
+  },
+  {
+    "week_of": "2011-07-25T00:00:00",
+    "dollars_per_gallon": 3.754
+  },
+  {
+    "week_of": "2011-07-18T00:00:00",
+    "dollars_per_gallon": 3.736
+  },
+  {
+    "week_of": "2011-07-11T00:00:00",
+    "dollars_per_gallon": 3.695
+  },
+  {
+    "week_of": "2011-07-04T00:00:00",
+    "dollars_per_gallon": 3.634
+  },
+  {
+    "week_of": "2011-06-27T00:00:00",
+    "dollars_per_gallon": 3.631
+  },
+  {
+    "week_of": "2011-06-20T00:00:00",
+    "dollars_per_gallon": 3.708
+  },
+  {
+    "week_of": "2011-06-13T00:00:00",
+    "dollars_per_gallon": 3.767
+  },
+  {
+    "week_of": "2011-06-06T00:00:00",
+    "dollars_per_gallon": 3.833
+  },
+  {
+    "week_of": "2011-05-30T00:00:00",
+    "dollars_per_gallon": 3.848
+  },
+  {
+    "week_of": "2011-05-23T00:00:00",
+    "dollars_per_gallon": 3.904
+  },
+  {
+    "week_of": "2011-05-16T00:00:00",
+    "dollars_per_gallon": 4.014
+  },
+  {
+    "week_of": "2011-05-09T00:00:00",
+    "dollars_per_gallon": 4.018
+  },
+  {
+    "week_of": "2011-05-02T00:00:00",
+    "dollars_per_gallon": 4.014
+  },
+  {
+    "week_of": "2011-04-25T00:00:00",
+    "dollars_per_gallon": 3.932
+  },
+  {
+    "week_of": "2011-04-18T00:00:00",
+    "dollars_per_gallon": 3.896
+  },
+  {
+    "week_of": "2011-04-11T00:00:00",
+    "dollars_per_gallon": 3.843
+  },
+  {
+    "week_of": "2011-04-04T00:00:00",
+    "dollars_per_gallon": 3.737
+  },
+  {
+    "week_of": "2011-03-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2011-03-21T00:00:00",
+    "dollars_per_gallon": 3.617
+  },
+  {
+    "week_of": "2011-03-14T00:00:00",
+    "dollars_per_gallon": 3.621
+  },
+  {
+    "week_of": "2011-03-07T00:00:00",
+    "dollars_per_gallon": 3.572
+  },
+  {
+    "week_of": "2011-02-28T00:00:00",
+    "dollars_per_gallon": 3.435
+  },
+  {
+    "week_of": "2011-02-21T00:00:00",
+    "dollars_per_gallon": 3.243
+  },
+  {
+    "week_of": "2011-02-14T00:00:00",
+    "dollars_per_gallon": 3.193
+  },
+  {
+    "week_of": "2011-02-07T00:00:00",
+    "dollars_per_gallon": 3.185
+  },
+  {
+    "week_of": "2011-01-31T00:00:00",
+    "dollars_per_gallon": 3.155
+  },
+  {
+    "week_of": "2011-01-24T00:00:00",
+    "dollars_per_gallon": 3.163
+  },
+  {
+    "week_of": "2011-01-17T00:00:00",
+    "dollars_per_gallon": 3.158
+  },
+  {
+    "week_of": "2011-01-10T00:00:00",
+    "dollars_per_gallon": 3.142
+  },
+  {
+    "week_of": "2011-01-03T00:00:00",
+    "dollars_per_gallon": 3.124
+  },
+  {
+    "week_of": "2010-12-27T00:00:00",
+    "dollars_per_gallon": 3.106
+  },
+  {
+    "week_of": "2010-12-20T00:00:00",
+    "dollars_per_gallon": 3.037
+  },
+  {
+    "week_of": "2010-12-13T00:00:00",
+    "dollars_per_gallon": 3.035
+  },
+  {
+    "week_of": "2010-12-06T00:00:00",
+    "dollars_per_gallon": 3.013
+  },
+  {
+    "week_of": "2010-11-29T00:00:00",
+    "dollars_per_gallon": 2.912
+  },
+  {
+    "week_of": "2010-11-22T00:00:00",
+    "dollars_per_gallon": 2.931
+  },
+  {
+    "week_of": "2010-11-15T00:00:00",
+    "dollars_per_gallon": 2.944
+  },
+  {
+    "week_of": "2010-11-08T00:00:00",
+    "dollars_per_gallon": 2.917
+  },
+  {
+    "week_of": "2010-11-01T00:00:00",
+    "dollars_per_gallon": 2.861
+  },
+  {
+    "week_of": "2010-10-25T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2010-10-18T00:00:00",
+    "dollars_per_gallon": 2.887
+  },
+  {
+    "week_of": "2010-10-11T00:00:00",
+    "dollars_per_gallon": 2.871
+  },
+  {
+    "week_of": "2010-10-04T00:00:00",
+    "dollars_per_gallon": 2.784
+  },
+  {
+    "week_of": "2010-09-27T00:00:00",
+    "dollars_per_gallon": 2.747
+  },
+  {
+    "week_of": "2010-09-20T00:00:00",
+    "dollars_per_gallon": 2.775
+  },
+  {
+    "week_of": "2010-09-13T00:00:00",
+    "dollars_per_gallon": 2.772
+  },
+  {
+    "week_of": "2010-09-06T00:00:00",
+    "dollars_per_gallon": 2.735
+  },
+  {
+    "week_of": "2010-08-30T00:00:00",
+    "dollars_per_gallon": 2.736
+  },
+  {
+    "week_of": "2010-08-23T00:00:00",
+    "dollars_per_gallon": 2.759
+  },
+  {
+    "week_of": "2010-08-16T00:00:00",
+    "dollars_per_gallon": 2.798
+  },
+  {
+    "week_of": "2010-08-09T00:00:00",
+    "dollars_per_gallon": 2.835
+  },
+  {
+    "week_of": "2010-08-02T00:00:00",
+    "dollars_per_gallon": 2.788
+  },
+  {
+    "week_of": "2010-07-26T00:00:00",
+    "dollars_per_gallon": 2.801
+  },
+  {
+    "week_of": "2010-07-19T00:00:00",
+    "dollars_per_gallon": 2.775
+  },
+  {
+    "week_of": "2010-07-12T00:00:00",
+    "dollars_per_gallon": 2.771
+  },
+  {
+    "week_of": "2010-07-05T00:00:00",
+    "dollars_per_gallon": 2.779
+  },
+  {
+    "week_of": "2010-06-28T00:00:00",
+    "dollars_per_gallon": 2.809
+  },
+  {
+    "week_of": "2010-06-21T00:00:00",
+    "dollars_per_gallon": 2.795
+  },
+  {
+    "week_of": "2010-06-14T00:00:00",
+    "dollars_per_gallon": 2.756
+  },
+  {
+    "week_of": "2010-06-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2010-05-31T00:00:00",
+    "dollars_per_gallon": 2.784
+  },
+  {
+    "week_of": "2010-05-24T00:00:00",
+    "dollars_per_gallon": 2.842
+  },
+  {
+    "week_of": "2010-05-17T00:00:00",
+    "dollars_per_gallon": 2.918
+  },
+  {
+    "week_of": "2010-05-10T00:00:00",
+    "dollars_per_gallon": 2.958
+  },
+  {
+    "week_of": "2010-05-03T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2010-04-26T00:00:00",
+    "dollars_per_gallon": 2.901
+  },
+  {
+    "week_of": "2010-04-19T00:00:00",
+    "dollars_per_gallon": 2.911
+  },
+  {
+    "week_of": "2010-04-12T00:00:00",
+    "dollars_per_gallon": 2.909
+  },
+  {
+    "week_of": "2010-04-05T00:00:00",
+    "dollars_per_gallon": 2.877
+  },
+  {
+    "week_of": "2010-03-29T00:00:00",
+    "dollars_per_gallon": 2.851
+  },
+  {
+    "week_of": "2010-03-22T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2010-03-15T00:00:00",
+    "dollars_per_gallon": 2.841
+  },
+  {
+    "week_of": "2010-03-08T00:00:00",
+    "dollars_per_gallon": 2.804
+  },
+  {
+    "week_of": "2010-03-01T00:00:00",
+    "dollars_per_gallon": 2.756
+  },
+  {
+    "week_of": "2010-02-22T00:00:00",
+    "dollars_per_gallon": 2.709
+  },
+  {
+    "week_of": "2010-02-15T00:00:00",
+    "dollars_per_gallon": 2.664
+  },
+  {
+    "week_of": "2010-02-08T00:00:00",
+    "dollars_per_gallon": 2.707
+  },
+  {
+    "week_of": "2010-02-01T00:00:00",
+    "dollars_per_gallon": 2.717
+  },
+  {
+    "week_of": "2010-01-25T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2010-01-18T00:00:00",
+    "dollars_per_gallon": 2.793
+  },
+  {
+    "week_of": "2010-01-11T00:00:00",
+    "dollars_per_gallon": 2.804
+  },
+  {
+    "week_of": "2010-01-04T00:00:00",
+    "dollars_per_gallon": 2.718
+  },
+  {
+    "week_of": "2009-12-28T00:00:00",
+    "dollars_per_gallon": 2.662
+  },
+  {
+    "week_of": "2009-12-21T00:00:00",
+    "dollars_per_gallon": 2.645
+  },
+  {
+    "week_of": "2009-12-14T00:00:00",
+    "dollars_per_gallon": 2.655
+  },
+  {
+    "week_of": "2009-12-07T00:00:00",
+    "dollars_per_gallon": 2.689
+  },
+  {
+    "week_of": "2009-11-30T00:00:00",
+    "dollars_per_gallon": 2.684
+  },
+  {
+    "week_of": "2009-11-23T00:00:00",
+    "dollars_per_gallon": 2.694
+  },
+  {
+    "week_of": "2009-11-16T00:00:00",
+    "dollars_per_gallon": 2.684
+  },
+  {
+    "week_of": "2009-11-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-11-02T00:00:00",
+    "dollars_per_gallon": 2.746
+  },
+  {
+    "week_of": "2009-10-26T00:00:00",
+    "dollars_per_gallon": 2.727
+  },
+  {
+    "week_of": "2009-10-19T00:00:00",
+    "dollars_per_gallon": 2.626
+  },
+  {
+    "week_of": "2009-10-12T00:00:00",
+    "dollars_per_gallon": 2.543
+  },
+  {
+    "week_of": "2009-10-05T00:00:00",
+    "dollars_per_gallon": 2.523
+  },
+  {
+    "week_of": "2009-09-28T00:00:00",
+    "dollars_per_gallon": 2.554
+  },
+  {
+    "week_of": "2009-09-21T00:00:00",
+    "dollars_per_gallon": 2.607
+  },
+  {
+    "week_of": "2009-09-14T00:00:00",
+    "dollars_per_gallon": 2.632
+  },
+  {
+    "week_of": "2009-09-07T00:00:00",
+    "dollars_per_gallon": 2.642
+  },
+  {
+    "week_of": "2009-08-31T00:00:00",
+    "dollars_per_gallon": 2.667
+  },
+  {
+    "week_of": "2009-08-24T00:00:00",
+    "dollars_per_gallon": 2.682
+  },
+  {
+    "week_of": "2009-08-17T00:00:00",
+    "dollars_per_gallon": 2.691
+  },
+  {
+    "week_of": "2009-08-10T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-08-03T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-07-27T00:00:00",
+    "dollars_per_gallon": 2.557
+  },
+  {
+    "week_of": "2009-07-20T00:00:00",
+    "dollars_per_gallon": 2.519
+  },
+  {
+    "week_of": "2009-07-13T00:00:00",
+    "dollars_per_gallon": 2.584
+  },
+  {
+    "week_of": "2009-07-06T00:00:00",
+    "dollars_per_gallon": 2.666
+  },
+  {
+    "week_of": "2009-06-29T00:00:00",
+    "dollars_per_gallon": 2.695
+  },
+  {
+    "week_of": "2009-06-22T00:00:00",
+    "dollars_per_gallon": 2.743
+  },
+  {
+    "week_of": "2009-06-15T00:00:00",
+    "dollars_per_gallon": 2.722
+  },
+  {
+    "week_of": "2009-06-08T00:00:00",
+    "dollars_per_gallon": 2.673
+  },
+  {
+    "week_of": "2009-06-01T00:00:00",
+    "dollars_per_gallon": 2.572
+  },
+  {
+    "week_of": "2009-05-25T00:00:00",
+    "dollars_per_gallon": 2.485
+  },
+  {
+    "week_of": "2009-05-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-05-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-05-04T00:00:00",
+    "dollars_per_gallon": 2.129
+  },
+  {
+    "week_of": "2009-04-27T00:00:00",
+    "dollars_per_gallon": 2.102
+  },
+  {
+    "week_of": "2009-04-20T00:00:00",
+    "dollars_per_gallon": 2.112
+  },
+  {
+    "week_of": "2009-04-13T00:00:00",
+    "dollars_per_gallon": 2.104
+  },
+  {
+    "week_of": "2009-04-06T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-03-30T00:00:00",
+    "dollars_per_gallon": 2.097
+  },
+  {
+    "week_of": "2009-03-23T00:00:00",
+    "dollars_per_gallon": 2.014
+  },
+  {
+    "week_of": "2009-03-16T00:00:00",
+    "dollars_per_gallon": 1.964
+  },
+  {
+    "week_of": "2009-03-09T00:00:00",
+    "dollars_per_gallon": 1.993
+  },
+  {
+    "week_of": "2009-03-02T00:00:00",
+    "dollars_per_gallon": 1.988
+  },
+  {
+    "week_of": "2009-02-23T00:00:00",
+    "dollars_per_gallon": 1.963
+  },
+  {
+    "week_of": "2009-02-16T00:00:00",
+    "dollars_per_gallon": 2.016
+  },
+  {
+    "week_of": "2009-02-09T00:00:00",
+    "dollars_per_gallon": 1.978
+  },
+  {
+    "week_of": "2009-02-02T00:00:00",
+    "dollars_per_gallon": 1.944
+  },
+  {
+    "week_of": "2009-01-26T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2009-01-19T00:00:00",
+    "dollars_per_gallon": 1.898
+  },
+  {
+    "week_of": "2009-01-12T00:00:00",
+    "dollars_per_gallon": 1.835
+  },
+  {
+    "week_of": "2009-01-05T00:00:00",
+    "dollars_per_gallon": 1.737
+  },
+  {
+    "week_of": "2008-12-29T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-12-22T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-12-15T00:00:00",
+    "dollars_per_gallon": 1.716
+  },
+  {
+    "week_of": "2008-12-08T00:00:00",
+    "dollars_per_gallon": 1.758
+  },
+  {
+    "week_of": "2008-12-01T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-11-24T00:00:00",
+    "dollars_per_gallon": 1.952
+  },
+  {
+    "week_of": "2008-11-17T00:00:00",
+    "dollars_per_gallon": 2.132
+  },
+  {
+    "week_of": "2008-11-10T00:00:00",
+    "dollars_per_gallon": 2.284
+  },
+  {
+    "week_of": "2008-11-03T00:00:00",
+    "dollars_per_gallon": 2.462
+  },
+  {
+    "week_of": "2008-10-27T00:00:00",
+    "dollars_per_gallon": 2.718
+  },
+  {
+    "week_of": "2008-10-20T00:00:00",
+    "dollars_per_gallon": 2.974
+  },
+  {
+    "week_of": "2008-10-13T00:00:00",
+    "dollars_per_gallon": 3.213
+  },
+  {
+    "week_of": "2008-10-06T00:00:00",
+    "dollars_per_gallon": 3.543
+  },
+  {
+    "week_of": "2008-09-29T00:00:00",
+    "dollars_per_gallon": 3.687
+  },
+  {
+    "week_of": "2008-09-22T00:00:00",
+    "dollars_per_gallon": 3.772
+  },
+  {
+    "week_of": "2008-09-15T00:00:00",
+    "dollars_per_gallon": 3.887
+  },
+  {
+    "week_of": "2008-09-08T00:00:00",
+    "dollars_per_gallon": 3.701
+  },
+  {
+    "week_of": "2008-09-01T00:00:00",
+    "dollars_per_gallon": 3.733
+  },
+  {
+    "week_of": "2008-08-25T00:00:00",
+    "dollars_per_gallon": 3.738
+  },
+  {
+    "week_of": "2008-08-18T00:00:00",
+    "dollars_per_gallon": 3.794
+  },
+  {
+    "week_of": "2008-08-11T00:00:00",
+    "dollars_per_gallon": 3.864
+  },
+  {
+    "week_of": "2008-08-04T00:00:00",
+    "dollars_per_gallon": 3.935
+  },
+  {
+    "week_of": "2008-07-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-07-21T00:00:00",
+    "dollars_per_gallon": 4.118
+  },
+  {
+    "week_of": "2008-07-14T00:00:00",
+    "dollars_per_gallon": 4.164
+  },
+  {
+    "week_of": "2008-07-07T00:00:00",
+    "dollars_per_gallon": 4.165
+  },
+  {
+    "week_of": "2008-06-30T00:00:00",
+    "dollars_per_gallon": 4.146
+  },
+  {
+    "week_of": "2008-06-23T00:00:00",
+    "dollars_per_gallon": 4.131
+  },
+  {
+    "week_of": "2008-06-16T00:00:00",
+    "dollars_per_gallon": 4.134
+  },
+  {
+    "week_of": "2008-06-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-06-02T00:00:00",
+    "dollars_per_gallon": 4.026
+  },
+  {
+    "week_of": "2008-05-26T00:00:00",
+    "dollars_per_gallon": 3.986
+  },
+  {
+    "week_of": "2008-05-19T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-05-12T00:00:00",
+    "dollars_per_gallon": 3.771
+  },
+  {
+    "week_of": "2008-05-05T00:00:00",
+    "dollars_per_gallon": 3.663
+  },
+  {
+    "week_of": "2008-04-28T00:00:00",
+    "dollars_per_gallon": 3.653
+  },
+  {
+    "week_of": "2008-04-21T00:00:00",
+    "dollars_per_gallon": 3.557
+  },
+  {
+    "week_of": "2008-04-14T00:00:00",
+    "dollars_per_gallon": 3.438
+  },
+  {
+    "week_of": "2008-04-07T00:00:00",
+    "dollars_per_gallon": 3.381
+  },
+  {
+    "week_of": "2008-03-31T00:00:00",
+    "dollars_per_gallon": 3.339
+  },
+  {
+    "week_of": "2008-03-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-03-17T00:00:00",
+    "dollars_per_gallon": 3.332
+  },
+  {
+    "week_of": "2008-03-10T00:00:00",
+    "dollars_per_gallon": 3.273
+  },
+  {
+    "week_of": "2008-03-03T00:00:00",
+    "dollars_per_gallon": 3.212
+  },
+  {
+    "week_of": "2008-02-25T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-02-18T00:00:00",
+    "dollars_per_gallon": 3.092
+  },
+  {
+    "week_of": "2008-02-11T00:00:00",
+    "dollars_per_gallon": 3.011
+  },
+  {
+    "week_of": "2008-02-04T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-01-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-01-21T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2008-01-14T00:00:00",
+    "dollars_per_gallon": 3.119
+  },
+  {
+    "week_of": "2008-01-07T00:00:00",
+    "dollars_per_gallon": 3.159
+  },
+  {
+    "week_of": "2007-12-31T00:00:00",
+    "dollars_per_gallon": 3.104
+  },
+  {
+    "week_of": "2007-12-24T00:00:00",
+    "dollars_per_gallon": 3.032
+  },
+  {
+    "week_of": "2007-12-17T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-12-10T00:00:00",
+    "dollars_per_gallon": 3.053
+  },
+  {
+    "week_of": "2007-12-03T00:00:00",
+    "dollars_per_gallon": 3.113
+  },
+  {
+    "week_of": "2007-11-26T00:00:00",
+    "dollars_per_gallon": 3.147
+  },
+  {
+    "week_of": "2007-11-19T00:00:00",
+    "dollars_per_gallon": 3.148
+  },
+  {
+    "week_of": "2007-11-12T00:00:00",
+    "dollars_per_gallon": 3.158
+  },
+  {
+    "week_of": "2007-11-05T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-10-29T00:00:00",
+    "dollars_per_gallon": 2.921
+  },
+  {
+    "week_of": "2007-10-22T00:00:00",
+    "dollars_per_gallon": 2.873
+  },
+  {
+    "week_of": "2007-10-15T00:00:00",
+    "dollars_per_gallon": 2.813
+  },
+  {
+    "week_of": "2007-10-08T00:00:00",
+    "dollars_per_gallon": 2.821
+  },
+  {
+    "week_of": "2007-10-01T00:00:00",
+    "dollars_per_gallon": 2.838
+  },
+  {
+    "week_of": "2007-09-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-09-17T00:00:00",
+    "dollars_per_gallon": 2.835
+  },
+  {
+    "week_of": "2007-09-10T00:00:00",
+    "dollars_per_gallon": 2.862
+  },
+  {
+    "week_of": "2007-09-03T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-08-27T00:00:00",
+    "dollars_per_gallon": 2.796
+  },
+  {
+    "week_of": "2007-08-20T00:00:00",
+    "dollars_per_gallon": 2.832
+  },
+  {
+    "week_of": "2007-08-13T00:00:00",
+    "dollars_per_gallon": 2.821
+  },
+  {
+    "week_of": "2007-08-06T00:00:00",
+    "dollars_per_gallon": 2.888
+  },
+  {
+    "week_of": "2007-07-30T00:00:00",
+    "dollars_per_gallon": 2.926
+  },
+  {
+    "week_of": "2007-07-23T00:00:00",
+    "dollars_per_gallon": 3.005
+  },
+  {
+    "week_of": "2007-07-16T00:00:00",
+    "dollars_per_gallon": 3.092
+  },
+  {
+    "week_of": "2007-07-09T00:00:00",
+    "dollars_per_gallon": 3.026
+  },
+  {
+    "week_of": "2007-07-02T00:00:00",
+    "dollars_per_gallon": 3.005
+  },
+  {
+    "week_of": "2007-06-25T00:00:00",
+    "dollars_per_gallon": 3.029
+  },
+  {
+    "week_of": "2007-06-18T00:00:00",
+    "dollars_per_gallon": 3.057
+  },
+  {
+    "week_of": "2007-06-11T00:00:00",
+    "dollars_per_gallon": 3.122
+  },
+  {
+    "week_of": "2007-06-04T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-05-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-05-21T00:00:00",
+    "dollars_per_gallon": 3.258
+  },
+  {
+    "week_of": "2007-05-14T00:00:00",
+    "dollars_per_gallon": 3.143
+  },
+  {
+    "week_of": "2007-05-07T00:00:00",
+    "dollars_per_gallon": 3.097
+  },
+  {
+    "week_of": "2007-04-30T00:00:00",
+    "dollars_per_gallon": 3.017
+  },
+  {
+    "week_of": "2007-04-23T00:00:00",
+    "dollars_per_gallon": 2.917
+  },
+  {
+    "week_of": "2007-04-16T00:00:00",
+    "dollars_per_gallon": 2.922
+  },
+  {
+    "week_of": "2007-04-09T00:00:00",
+    "dollars_per_gallon": 2.848
+  },
+  {
+    "week_of": "2007-04-02T00:00:00",
+    "dollars_per_gallon": 2.753
+  },
+  {
+    "week_of": "2007-03-26T00:00:00",
+    "dollars_per_gallon": 2.655
+  },
+  {
+    "week_of": "2007-03-19T00:00:00",
+    "dollars_per_gallon": 2.623
+  },
+  {
+    "week_of": "2007-03-12T00:00:00",
+    "dollars_per_gallon": 2.605
+  },
+  {
+    "week_of": "2007-03-05T00:00:00",
+    "dollars_per_gallon": 2.551
+  },
+  {
+    "week_of": "2007-02-26T00:00:00",
+    "dollars_per_gallon": 2.428
+  },
+  {
+    "week_of": "2007-02-19T00:00:00",
+    "dollars_per_gallon": 2.341
+  },
+  {
+    "week_of": "2007-02-12T00:00:00",
+    "dollars_per_gallon": 2.287
+  },
+  {
+    "week_of": "2007-02-05T00:00:00",
+    "dollars_per_gallon": 2.237
+  },
+  {
+    "week_of": "2007-01-29T00:00:00",
+    "dollars_per_gallon": 2.213
+  },
+  {
+    "week_of": "2007-01-22T00:00:00",
+    "dollars_per_gallon": 2.216
+  },
+  {
+    "week_of": "2007-01-15T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2007-01-08T00:00:00",
+    "dollars_per_gallon": 2.354
+  },
+  {
+    "week_of": "2007-01-01T00:00:00",
+    "dollars_per_gallon": 2.382
+  },
+  {
+    "week_of": "2006-12-25T00:00:00",
+    "dollars_per_gallon": 2.387
+  },
+  {
+    "week_of": "2006-12-18T00:00:00",
+    "dollars_per_gallon": 2.366
+  },
+  {
+    "week_of": "2006-12-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-12-04T00:00:00",
+    "dollars_per_gallon": 2.342
+  },
+  {
+    "week_of": "2006-11-27T00:00:00",
+    "dollars_per_gallon": 2.292
+  },
+  {
+    "week_of": "2006-11-20T00:00:00",
+    "dollars_per_gallon": 2.285
+  },
+  {
+    "week_of": "2006-11-13T00:00:00",
+    "dollars_per_gallon": 2.278
+  },
+  {
+    "week_of": "2006-11-06T00:00:00",
+    "dollars_per_gallon": 2.246
+  },
+  {
+    "week_of": "2006-10-30T00:00:00",
+    "dollars_per_gallon": 2.264
+  },
+  {
+    "week_of": "2006-10-23T00:00:00",
+    "dollars_per_gallon": 2.255
+  },
+  {
+    "week_of": "2006-10-16T00:00:00",
+    "dollars_per_gallon": 2.274
+  },
+  {
+    "week_of": "2006-10-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-10-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-09-25T00:00:00",
+    "dollars_per_gallon": 2.429
+  },
+  {
+    "week_of": "2006-09-18T00:00:00",
+    "dollars_per_gallon": 2.549
+  },
+  {
+    "week_of": "2006-09-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-09-04T00:00:00",
+    "dollars_per_gallon": 2.777
+  },
+  {
+    "week_of": "2006-08-28T00:00:00",
+    "dollars_per_gallon": 2.893
+  },
+  {
+    "week_of": "2006-08-21T00:00:00",
+    "dollars_per_gallon": 2.971
+  },
+  {
+    "week_of": "2006-08-14T00:00:00",
+    "dollars_per_gallon": 3.047
+  },
+  {
+    "week_of": "2006-08-07T00:00:00",
+    "dollars_per_gallon": 3.083
+  },
+  {
+    "week_of": "2006-07-31T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-07-24T00:00:00",
+    "dollars_per_gallon": 3.048
+  },
+  {
+    "week_of": "2006-07-17T00:00:00",
+    "dollars_per_gallon": 3.033
+  },
+  {
+    "week_of": "2006-07-10T00:00:00",
+    "dollars_per_gallon": 3.017
+  },
+  {
+    "week_of": "2006-07-03T00:00:00",
+    "dollars_per_gallon": 2.979
+  },
+  {
+    "week_of": "2006-06-26T00:00:00",
+    "dollars_per_gallon": 2.914
+  },
+  {
+    "week_of": "2006-06-19T00:00:00",
+    "dollars_per_gallon": 2.917
+  },
+  {
+    "week_of": "2006-06-12T00:00:00",
+    "dollars_per_gallon": 2.951
+  },
+  {
+    "week_of": "2006-06-05T00:00:00",
+    "dollars_per_gallon": 2.937
+  },
+  {
+    "week_of": "2006-05-29T00:00:00",
+    "dollars_per_gallon": 2.913
+  },
+  {
+    "week_of": "2006-05-22T00:00:00",
+    "dollars_per_gallon": 2.938
+  },
+  {
+    "week_of": "2006-05-15T00:00:00",
+    "dollars_per_gallon": 2.992
+  },
+  {
+    "week_of": "2006-05-08T00:00:00",
+    "dollars_per_gallon": 2.955
+  },
+  {
+    "week_of": "2006-05-01T00:00:00",
+    "dollars_per_gallon": 2.966
+  },
+  {
+    "week_of": "2006-04-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2006-04-17T00:00:00",
+    "dollars_per_gallon": 2.828
+  },
+  {
+    "week_of": "2006-04-10T00:00:00",
+    "dollars_per_gallon": 2.727
+  },
+  {
+    "week_of": "2006-04-03T00:00:00",
+    "dollars_per_gallon": 2.631
+  },
+  {
+    "week_of": "2006-03-27T00:00:00",
+    "dollars_per_gallon": 2.542
+  },
+  {
+    "week_of": "2006-03-20T00:00:00",
+    "dollars_per_gallon": 2.548
+  },
+  {
+    "week_of": "2006-03-13T00:00:00",
+    "dollars_per_gallon": 2.408
+  },
+  {
+    "week_of": "2006-03-06T00:00:00",
+    "dollars_per_gallon": 2.373
+  },
+  {
+    "week_of": "2006-02-27T00:00:00",
+    "dollars_per_gallon": 2.298
+  },
+  {
+    "week_of": "2006-02-20T00:00:00",
+    "dollars_per_gallon": 2.286
+  },
+  {
+    "week_of": "2006-02-13T00:00:00",
+    "dollars_per_gallon": 2.331
+  },
+  {
+    "week_of": "2006-02-06T00:00:00",
+    "dollars_per_gallon": 2.388
+  },
+  {
+    "week_of": "2006-01-30T00:00:00",
+    "dollars_per_gallon": 2.402
+  },
+  {
+    "week_of": "2006-01-23T00:00:00",
+    "dollars_per_gallon": 2.382
+  },
+  {
+    "week_of": "2006-01-16T00:00:00",
+    "dollars_per_gallon": 2.366
+  },
+  {
+    "week_of": "2006-01-09T00:00:00",
+    "dollars_per_gallon": 2.371
+  },
+  {
+    "week_of": "2006-01-02T00:00:00",
+    "dollars_per_gallon": 2.281
+  },
+  {
+    "week_of": "2005-12-26T00:00:00",
+    "dollars_per_gallon": 2.241
+  },
+  {
+    "week_of": "2005-12-19T00:00:00",
+    "dollars_per_gallon": 2.255
+  },
+  {
+    "week_of": "2005-12-12T00:00:00",
+    "dollars_per_gallon": 2.228
+  },
+  {
+    "week_of": "2005-12-05T00:00:00",
+    "dollars_per_gallon": 2.191
+  },
+  {
+    "week_of": "2005-11-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2005-11-21T00:00:00",
+    "dollars_per_gallon": 2.247
+  },
+  {
+    "week_of": "2005-11-14T00:00:00",
+    "dollars_per_gallon": 2.342
+  },
+  {
+    "week_of": "2005-11-07T00:00:00",
+    "dollars_per_gallon": 2.424
+  },
+  {
+    "week_of": "2005-10-31T00:00:00",
+    "dollars_per_gallon": 2.528
+  },
+  {
+    "week_of": "2005-10-24T00:00:00",
+    "dollars_per_gallon": 2.652
+  },
+  {
+    "week_of": "2005-10-17T00:00:00",
+    "dollars_per_gallon": 2.775
+  },
+  {
+    "week_of": "2005-10-10T00:00:00",
+    "dollars_per_gallon": 2.896
+  },
+  {
+    "week_of": "2005-10-03T00:00:00",
+    "dollars_per_gallon": 2.975
+  },
+  {
+    "week_of": "2005-09-26T00:00:00",
+    "dollars_per_gallon": 2.851
+  },
+  {
+    "week_of": "2005-09-19T00:00:00",
+    "dollars_per_gallon": 2.835
+  },
+  {
+    "week_of": "2005-09-12T00:00:00",
+    "dollars_per_gallon": 3.002
+  },
+  {
+    "week_of": "2005-09-05T00:00:00",
+    "dollars_per_gallon": 3.117
+  },
+  {
+    "week_of": "2005-08-29T00:00:00",
+    "dollars_per_gallon": 2.653
+  },
+  {
+    "week_of": "2005-08-22T00:00:00",
+    "dollars_per_gallon": 2.654
+  },
+  {
+    "week_of": "2005-08-15T00:00:00",
+    "dollars_per_gallon": 2.592
+  },
+  {
+    "week_of": "2005-08-08T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2005-08-01T00:00:00",
+    "dollars_per_gallon": 2.335
+  },
+  {
+    "week_of": "2005-07-25T00:00:00",
+    "dollars_per_gallon": 2.333
+  },
+  {
+    "week_of": "2005-07-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2005-07-11T00:00:00",
+    "dollars_per_gallon": 2.369
+  },
+  {
+    "week_of": "2005-07-04T00:00:00",
+    "dollars_per_gallon": 2.268
+  },
+  {
+    "week_of": "2005-06-27T00:00:00",
+    "dollars_per_gallon": 2.257
+  },
+  {
+    "week_of": "2005-06-20T00:00:00",
+    "dollars_per_gallon": 2.204
+  },
+  {
+    "week_of": "2005-06-13T00:00:00",
+    "dollars_per_gallon": 2.173
+  },
+  {
+    "week_of": "2005-06-06T00:00:00",
+    "dollars_per_gallon": 2.159
+  },
+  {
+    "week_of": "2005-05-30T00:00:00",
+    "dollars_per_gallon": 2.141
+  },
+  {
+    "week_of": "2005-05-23T00:00:00",
+    "dollars_per_gallon": 2.169
+  },
+  {
+    "week_of": "2005-05-16T00:00:00",
+    "dollars_per_gallon": 2.206
+  },
+  {
+    "week_of": "2005-05-09T00:00:00",
+    "dollars_per_gallon": 2.231
+  },
+  {
+    "week_of": "2005-05-02T00:00:00",
+    "dollars_per_gallon": 2.277
+  },
+  {
+    "week_of": "2005-04-25T00:00:00",
+    "dollars_per_gallon": 2.279
+  },
+  {
+    "week_of": "2005-04-18T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2005-04-11T00:00:00",
+    "dollars_per_gallon": 2.321
+  },
+  {
+    "week_of": "2005-04-04T00:00:00",
+    "dollars_per_gallon": 2.258
+  },
+  {
+    "week_of": "2005-03-28T00:00:00",
+    "dollars_per_gallon": 2.194
+  },
+  {
+    "week_of": "2005-03-21T00:00:00",
+    "dollars_per_gallon": 2.149
+  },
+  {
+    "week_of": "2005-03-14T00:00:00",
+    "dollars_per_gallon": 2.098
+  },
+  {
+    "week_of": "2005-03-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2005-02-28T00:00:00",
+    "dollars_per_gallon": 1.969
+  },
+  {
+    "week_of": "2005-02-21T00:00:00",
+    "dollars_per_gallon": 1.948
+  },
+  {
+    "week_of": "2005-02-14T00:00:00",
+    "dollars_per_gallon": 1.941
+  },
+  {
+    "week_of": "2005-02-07T00:00:00",
+    "dollars_per_gallon": 1.952
+  },
+  {
+    "week_of": "2005-01-31T00:00:00",
+    "dollars_per_gallon": 1.953
+  },
+  {
+    "week_of": "2005-01-24T00:00:00",
+    "dollars_per_gallon": 1.896
+  },
+  {
+    "week_of": "2005-01-17T00:00:00",
+    "dollars_per_gallon": 1.863
+  },
+  {
+    "week_of": "2005-01-10T00:00:00",
+    "dollars_per_gallon": 1.837
+  },
+  {
+    "week_of": "2005-01-03T00:00:00",
+    "dollars_per_gallon": 1.824
+  },
+  {
+    "week_of": "2004-12-27T00:00:00",
+    "dollars_per_gallon": 1.838
+  },
+  {
+    "week_of": "2004-12-20T00:00:00",
+    "dollars_per_gallon": 1.861
+  },
+  {
+    "week_of": "2004-12-13T00:00:00",
+    "dollars_per_gallon": 1.893
+  },
+  {
+    "week_of": "2004-12-06T00:00:00",
+    "dollars_per_gallon": 1.956
+  },
+  {
+    "week_of": "2004-11-29T00:00:00",
+    "dollars_per_gallon": 1.989
+  },
+  {
+    "week_of": "2004-11-22T00:00:00",
+    "dollars_per_gallon": 1.992
+  },
+  {
+    "week_of": "2004-11-15T00:00:00",
+    "dollars_per_gallon": 2.014
+  },
+  {
+    "week_of": "2004-11-08T00:00:00",
+    "dollars_per_gallon": 2.045
+  },
+  {
+    "week_of": "2004-11-01T00:00:00",
+    "dollars_per_gallon": 2.076
+  },
+  {
+    "week_of": "2004-10-25T00:00:00",
+    "dollars_per_gallon": 2.074
+  },
+  {
+    "week_of": "2004-10-18T00:00:00",
+    "dollars_per_gallon": 2.077
+  },
+  {
+    "week_of": "2004-10-11T00:00:00",
+    "dollars_per_gallon": 2.035
+  },
+  {
+    "week_of": "2004-10-04T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-09-27T00:00:00",
+    "dollars_per_gallon": 1.959
+  },
+  {
+    "week_of": "2004-09-20T00:00:00",
+    "dollars_per_gallon": 1.908
+  },
+  {
+    "week_of": "2004-09-13T00:00:00",
+    "dollars_per_gallon": 1.889
+  },
+  {
+    "week_of": "2004-09-06T00:00:00",
+    "dollars_per_gallon": 1.893
+  },
+  {
+    "week_of": "2004-08-30T00:00:00",
+    "dollars_per_gallon": 1.909
+  },
+  {
+    "week_of": "2004-08-23T00:00:00",
+    "dollars_per_gallon": 1.926
+  },
+  {
+    "week_of": "2004-08-16T00:00:00",
+    "dollars_per_gallon": 1.917
+  },
+  {
+    "week_of": "2004-08-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-08-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-07-26T00:00:00",
+    "dollars_per_gallon": 1.948
+  },
+  {
+    "week_of": "2004-07-19T00:00:00",
+    "dollars_per_gallon": 1.971
+  },
+  {
+    "week_of": "2004-07-12T00:00:00",
+    "dollars_per_gallon": 1.959
+  },
+  {
+    "week_of": "2004-07-05T00:00:00",
+    "dollars_per_gallon": 1.939
+  },
+  {
+    "week_of": "2004-06-28T00:00:00",
+    "dollars_per_gallon": 1.965
+  },
+  {
+    "week_of": "2004-06-21T00:00:00",
+    "dollars_per_gallon": 1.981
+  },
+  {
+    "week_of": "2004-06-14T00:00:00",
+    "dollars_per_gallon": 2.029
+  },
+  {
+    "week_of": "2004-06-07T00:00:00",
+    "dollars_per_gallon": 2.075
+  },
+  {
+    "week_of": "2004-05-31T00:00:00",
+    "dollars_per_gallon": 2.092
+  },
+  {
+    "week_of": "2004-05-24T00:00:00",
+    "dollars_per_gallon": 2.104
+  },
+  {
+    "week_of": "2004-05-17T00:00:00",
+    "dollars_per_gallon": 2.055
+  },
+  {
+    "week_of": "2004-05-10T00:00:00",
+    "dollars_per_gallon": 1.979
+  },
+  {
+    "week_of": "2004-05-03T00:00:00",
+    "dollars_per_gallon": 1.884
+  },
+  {
+    "week_of": "2004-04-26T00:00:00",
+    "dollars_per_gallon": 1.853
+  },
+  {
+    "week_of": "2004-04-19T00:00:00",
+    "dollars_per_gallon": 1.853
+  },
+  {
+    "week_of": "2004-04-12T00:00:00",
+    "dollars_per_gallon": 1.827
+  },
+  {
+    "week_of": "2004-04-05T00:00:00",
+    "dollars_per_gallon": 1.822
+  },
+  {
+    "week_of": "2004-03-29T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-03-22T00:00:00",
+    "dollars_per_gallon": 1.785
+  },
+  {
+    "week_of": "2004-03-15T00:00:00",
+    "dollars_per_gallon": 1.767
+  },
+  {
+    "week_of": "2004-03-08T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-03-01T00:00:00",
+    "dollars_per_gallon": 1.758
+  },
+  {
+    "week_of": "2004-02-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-02-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-02-09T00:00:00",
+    "dollars_per_gallon": 1.681
+  },
+  {
+    "week_of": "2004-02-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2004-01-26T00:00:00",
+    "dollars_per_gallon": 1.664
+  },
+  {
+    "week_of": "2004-01-19T00:00:00",
+    "dollars_per_gallon": 1.637
+  },
+  {
+    "week_of": "2004-01-12T00:00:00",
+    "dollars_per_gallon": 1.603
+  },
+  {
+    "week_of": "2004-01-05T00:00:00",
+    "dollars_per_gallon": 1.552
+  },
+  {
+    "week_of": "2003-12-29T00:00:00",
+    "dollars_per_gallon": 1.521
+  },
+  {
+    "week_of": "2003-12-22T00:00:00",
+    "dollars_per_gallon": 1.528
+  },
+  {
+    "week_of": "2003-12-15T00:00:00",
+    "dollars_per_gallon": 1.509
+  },
+  {
+    "week_of": "2003-12-08T00:00:00",
+    "dollars_per_gallon": 1.519
+  },
+  {
+    "week_of": "2003-12-01T00:00:00",
+    "dollars_per_gallon": 1.533
+  },
+  {
+    "week_of": "2003-11-24T00:00:00",
+    "dollars_per_gallon": 1.554
+  },
+  {
+    "week_of": "2003-11-17T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2003-11-10T00:00:00",
+    "dollars_per_gallon": 1.547
+  },
+  {
+    "week_of": "2003-11-03T00:00:00",
+    "dollars_per_gallon": 1.577
+  },
+  {
+    "week_of": "2003-10-27T00:00:00",
+    "dollars_per_gallon": 1.584
+  },
+  {
+    "week_of": "2003-10-20T00:00:00",
+    "dollars_per_gallon": 1.612
+  },
+  {
+    "week_of": "2003-10-13T00:00:00",
+    "dollars_per_gallon": 1.611
+  },
+  {
+    "week_of": "2003-10-06T00:00:00",
+    "dollars_per_gallon": 1.617
+  },
+  {
+    "week_of": "2003-09-29T00:00:00",
+    "dollars_per_gallon": 1.635
+  },
+  {
+    "week_of": "2003-09-22T00:00:00",
+    "dollars_per_gallon": 1.686
+  },
+  {
+    "week_of": "2003-09-15T00:00:00",
+    "dollars_per_gallon": 1.739
+  },
+  {
+    "week_of": "2003-09-08T00:00:00",
+    "dollars_per_gallon": 1.758
+  },
+  {
+    "week_of": "2003-09-01T00:00:00",
+    "dollars_per_gallon": 1.786
+  },
+  {
+    "week_of": "2003-08-25T00:00:00",
+    "dollars_per_gallon": 1.787
+  },
+  {
+    "week_of": "2003-08-18T00:00:00",
+    "dollars_per_gallon": 1.668
+  },
+  {
+    "week_of": "2003-08-11T00:00:00",
+    "dollars_per_gallon": 1.611
+  },
+  {
+    "week_of": "2003-08-04T00:00:00",
+    "dollars_per_gallon": 1.576
+  },
+  {
+    "week_of": "2003-07-28T00:00:00",
+    "dollars_per_gallon": 1.558
+  },
+  {
+    "week_of": "2003-07-21T00:00:00",
+    "dollars_per_gallon": 1.566
+  },
+  {
+    "week_of": "2003-07-14T00:00:00",
+    "dollars_per_gallon": 1.563
+  },
+  {
+    "week_of": "2003-07-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2003-06-30T00:00:00",
+    "dollars_per_gallon": 1.528
+  },
+  {
+    "week_of": "2003-06-23T00:00:00",
+    "dollars_per_gallon": 1.537
+  },
+  {
+    "week_of": "2003-06-16T00:00:00",
+    "dollars_per_gallon": 1.558
+  },
+  {
+    "week_of": "2003-06-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2003-06-02T00:00:00",
+    "dollars_per_gallon": 1.514
+  },
+  {
+    "week_of": "2003-05-26T00:00:00",
+    "dollars_per_gallon": 1.528
+  },
+  {
+    "week_of": "2003-05-19T00:00:00",
+    "dollars_per_gallon": 1.539
+  },
+  {
+    "week_of": "2003-05-12T00:00:00",
+    "dollars_per_gallon": 1.534
+  },
+  {
+    "week_of": "2003-05-05T00:00:00",
+    "dollars_per_gallon": 1.556
+  },
+  {
+    "week_of": "2003-04-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2003-04-21T00:00:00",
+    "dollars_per_gallon": 1.618
+  },
+  {
+    "week_of": "2003-04-14T00:00:00",
+    "dollars_per_gallon": 1.639
+  },
+  {
+    "week_of": "2003-04-07T00:00:00",
+    "dollars_per_gallon": 1.673
+  },
+  {
+    "week_of": "2003-03-31T00:00:00",
+    "dollars_per_gallon": 1.692
+  },
+  {
+    "week_of": "2003-03-24T00:00:00",
+    "dollars_per_gallon": 1.732
+  },
+  {
+    "week_of": "2003-03-17T00:00:00",
+    "dollars_per_gallon": 1.768
+  },
+  {
+    "week_of": "2003-03-10T00:00:00",
+    "dollars_per_gallon": 1.752
+  },
+  {
+    "week_of": "2003-03-03T00:00:00",
+    "dollars_per_gallon": 1.726
+  },
+  {
+    "week_of": "2003-02-24T00:00:00",
+    "dollars_per_gallon": 1.699
+  },
+  {
+    "week_of": "2003-02-17T00:00:00",
+    "dollars_per_gallon": 1.701
+  },
+  {
+    "week_of": "2003-02-10T00:00:00",
+    "dollars_per_gallon": 1.649
+  },
+  {
+    "week_of": "2003-02-03T00:00:00",
+    "dollars_per_gallon": 1.569
+  },
+  {
+    "week_of": "2003-01-27T00:00:00",
+    "dollars_per_gallon": 1.515
+  },
+  {
+    "week_of": "2003-01-20T00:00:00",
+    "dollars_per_gallon": 1.502
+  },
+  {
+    "week_of": "2003-01-13T00:00:00",
+    "dollars_per_gallon": 1.496
+  },
+  {
+    "week_of": "2003-01-06T00:00:00",
+    "dollars_per_gallon": 1.487
+  },
+  {
+    "week_of": "2002-12-30T00:00:00",
+    "dollars_per_gallon": 1.484
+  },
+  {
+    "week_of": "2002-12-23T00:00:00",
+    "dollars_per_gallon": 1.443
+  },
+  {
+    "week_of": "2002-12-16T00:00:00",
+    "dollars_per_gallon": 1.407
+  },
+  {
+    "week_of": "2002-12-09T00:00:00",
+    "dollars_per_gallon": 1.404
+  },
+  {
+    "week_of": "2002-12-02T00:00:00",
+    "dollars_per_gallon": 1.408
+  },
+  {
+    "week_of": "2002-11-25T00:00:00",
+    "dollars_per_gallon": 1.423
+  },
+  {
+    "week_of": "2002-11-18T00:00:00",
+    "dollars_per_gallon": 1.451
+  },
+  {
+    "week_of": "2002-11-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2002-11-04T00:00:00",
+    "dollars_per_gallon": 1.489
+  },
+  {
+    "week_of": "2002-10-28T00:00:00",
+    "dollars_per_gallon": 1.485
+  },
+  {
+    "week_of": "2002-10-21T00:00:00",
+    "dollars_per_gallon": 1.499
+  },
+  {
+    "week_of": "2002-10-14T00:00:00",
+    "dollars_per_gallon": 1.481
+  },
+  {
+    "week_of": "2002-10-07T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2002-09-30T00:00:00",
+    "dollars_per_gallon": 1.455
+  },
+  {
+    "week_of": "2002-09-23T00:00:00",
+    "dollars_per_gallon": 1.436
+  },
+  {
+    "week_of": "2002-09-16T00:00:00",
+    "dollars_per_gallon": 1.442
+  },
+  {
+    "week_of": "2002-09-09T00:00:00",
+    "dollars_per_gallon": 1.437
+  },
+  {
+    "week_of": "2002-09-02T00:00:00",
+    "dollars_per_gallon": 1.436
+  },
+  {
+    "week_of": "2002-08-26T00:00:00",
+    "dollars_per_gallon": 1.444
+  },
+  {
+    "week_of": "2002-08-19T00:00:00",
+    "dollars_per_gallon": 1.434
+  },
+  {
+    "week_of": "2002-08-12T00:00:00",
+    "dollars_per_gallon": 1.435
+  },
+  {
+    "week_of": "2002-08-05T00:00:00",
+    "dollars_per_gallon": 1.437
+  },
+  {
+    "week_of": "2002-07-29T00:00:00",
+    "dollars_per_gallon": 1.447
+  },
+  {
+    "week_of": "2002-07-22T00:00:00",
+    "dollars_per_gallon": 1.451
+  },
+  {
+    "week_of": "2002-07-15T00:00:00",
+    "dollars_per_gallon": 1.435
+  },
+  {
+    "week_of": "2002-07-08T00:00:00",
+    "dollars_per_gallon": 1.423
+  },
+  {
+    "week_of": "2002-07-01T00:00:00",
+    "dollars_per_gallon": 1.433
+  },
+  {
+    "week_of": "2002-06-24T00:00:00",
+    "dollars_per_gallon": 1.425
+  },
+  {
+    "week_of": "2002-06-17T00:00:00",
+    "dollars_per_gallon": 1.419
+  },
+  {
+    "week_of": "2002-06-10T00:00:00",
+    "dollars_per_gallon": 1.417
+  },
+  {
+    "week_of": "2002-06-03T00:00:00",
+    "dollars_per_gallon": 1.433
+  },
+  {
+    "week_of": "2002-05-27T00:00:00",
+    "dollars_per_gallon": 1.429
+  },
+  {
+    "week_of": "2002-05-20T00:00:00",
+    "dollars_per_gallon": 1.439
+  },
+  {
+    "week_of": "2002-05-13T00:00:00",
+    "dollars_per_gallon": 1.431
+  },
+  {
+    "week_of": "2002-05-06T00:00:00",
+    "dollars_per_gallon": 1.437
+  },
+  {
+    "week_of": "2002-04-29T00:00:00",
+    "dollars_per_gallon": 1.435
+  },
+  {
+    "week_of": "2002-04-22T00:00:00",
+    "dollars_per_gallon": 1.446
+  },
+  {
+    "week_of": "2002-04-15T00:00:00",
+    "dollars_per_gallon": 1.446
+  },
+  {
+    "week_of": "2002-04-08T00:00:00",
+    "dollars_per_gallon": 1.454
+  },
+  {
+    "week_of": "2002-04-01T00:00:00",
+    "dollars_per_gallon": 1.412
+  },
+  {
+    "week_of": "2002-03-25T00:00:00",
+    "dollars_per_gallon": 1.382
+  },
+  {
+    "week_of": "2002-03-18T00:00:00",
+    "dollars_per_gallon": 1.328
+  },
+  {
+    "week_of": "2002-03-11T00:00:00",
+    "dollars_per_gallon": 1.262
+  },
+  {
+    "week_of": "2002-03-04T00:00:00",
+    "dollars_per_gallon": 1.185
+  },
+  {
+    "week_of": "2002-02-25T00:00:00",
+    "dollars_per_gallon": 1.157
+  },
+  {
+    "week_of": "2002-02-18T00:00:00",
+    "dollars_per_gallon": 1.157
+  },
+  {
+    "week_of": "2002-02-11T00:00:00",
+    "dollars_per_gallon": 1.148
+  },
+  {
+    "week_of": "2002-02-04T00:00:00",
+    "dollars_per_gallon": 1.157
+  },
+  {
+    "week_of": "2002-01-28T00:00:00",
+    "dollars_per_gallon": 1.142
+  },
+  {
+    "week_of": "2002-01-21T00:00:00",
+    "dollars_per_gallon": 1.146
+  },
+  {
+    "week_of": "2002-01-14T00:00:00",
+    "dollars_per_gallon": 1.152
+  },
+  {
+    "week_of": "2002-01-07T00:00:00",
+    "dollars_per_gallon": 1.152
+  },
+  {
+    "week_of": "2001-12-31T00:00:00",
+    "dollars_per_gallon": 1.137
+  },
+  {
+    "week_of": "2001-12-24T00:00:00",
+    "dollars_per_gallon": 1.113
+  },
+  {
+    "week_of": "2001-12-17T00:00:00",
+    "dollars_per_gallon": 1.101
+  },
+  {
+    "week_of": "2001-12-10T00:00:00",
+    "dollars_per_gallon": 1.136
+  },
+  {
+    "week_of": "2001-12-03T00:00:00",
+    "dollars_per_gallon": 1.149
+  },
+  {
+    "week_of": "2001-11-26T00:00:00",
+    "dollars_per_gallon": 1.168
+  },
+  {
+    "week_of": "2001-11-19T00:00:00",
+    "dollars_per_gallon": 1.208
+  },
+  {
+    "week_of": "2001-11-12T00:00:00",
+    "dollars_per_gallon": 1.224
+  },
+  {
+    "week_of": "2001-11-05T00:00:00",
+    "dollars_per_gallon": 1.249
+  },
+  {
+    "week_of": "2001-10-29T00:00:00",
+    "dollars_per_gallon": 1.277
+  },
+  {
+    "week_of": "2001-10-22T00:00:00",
+    "dollars_per_gallon": 1.307
+  },
+  {
+    "week_of": "2001-10-15T00:00:00",
+    "dollars_per_gallon": 1.351
+  },
+  {
+    "week_of": "2001-10-08T00:00:00",
+    "dollars_per_gallon": 1.393
+  },
+  {
+    "week_of": "2001-10-01T00:00:00",
+    "dollars_per_gallon": 1.455
+  },
+  {
+    "week_of": "2001-09-24T00:00:00",
+    "dollars_per_gallon": 1.522
+  },
+  {
+    "week_of": "2001-09-17T00:00:00",
+    "dollars_per_gallon": 1.564
+  },
+  {
+    "week_of": "2001-09-10T00:00:00",
+    "dollars_per_gallon": 1.562
+  },
+  {
+    "week_of": "2001-09-03T00:00:00",
+    "dollars_per_gallon": 1.579
+  },
+  {
+    "week_of": "2001-08-27T00:00:00",
+    "dollars_per_gallon": 1.523
+  },
+  {
+    "week_of": "2001-08-20T00:00:00",
+    "dollars_per_gallon": 1.467
+  },
+  {
+    "week_of": "2001-08-13T00:00:00",
+    "dollars_per_gallon": 1.434
+  },
+  {
+    "week_of": "2001-08-06T00:00:00",
+    "dollars_per_gallon": 1.419
+  },
+  {
+    "week_of": "2001-07-30T00:00:00",
+    "dollars_per_gallon": 1.428
+  },
+  {
+    "week_of": "2001-07-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2001-07-16T00:00:00",
+    "dollars_per_gallon": 1.459
+  },
+  {
+    "week_of": "2001-07-09T00:00:00",
+    "dollars_per_gallon": 1.484
+  },
+  {
+    "week_of": "2001-07-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2001-06-25T00:00:00",
+    "dollars_per_gallon": 1.583
+  },
+  {
+    "week_of": "2001-06-18T00:00:00",
+    "dollars_per_gallon": 1.644
+  },
+  {
+    "week_of": "2001-06-11T00:00:00",
+    "dollars_per_gallon": 1.688
+  },
+  {
+    "week_of": "2001-06-04T00:00:00",
+    "dollars_per_gallon": 1.715
+  },
+  {
+    "week_of": "2001-05-28T00:00:00",
+    "dollars_per_gallon": 1.739
+  },
+  {
+    "week_of": "2001-05-21T00:00:00",
+    "dollars_per_gallon": 1.724
+  },
+  {
+    "week_of": "2001-05-14T00:00:00",
+    "dollars_per_gallon": 1.748
+  },
+  {
+    "week_of": "2001-05-07T00:00:00",
+    "dollars_per_gallon": 1.739
+  },
+  {
+    "week_of": "2001-04-30T00:00:00",
+    "dollars_per_gallon": 1.665
+  },
+  {
+    "week_of": "2001-04-23T00:00:00",
+    "dollars_per_gallon": 1.658
+  },
+  {
+    "week_of": "2001-04-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2001-04-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2001-04-02T00:00:00",
+    "dollars_per_gallon": 1.482
+  },
+  {
+    "week_of": "2001-03-26T00:00:00",
+    "dollars_per_gallon": 1.445
+  },
+  {
+    "week_of": "2001-03-19T00:00:00",
+    "dollars_per_gallon": 1.444
+  },
+  {
+    "week_of": "2001-03-12T00:00:00",
+    "dollars_per_gallon": 1.453
+  },
+  {
+    "week_of": "2001-03-05T00:00:00",
+    "dollars_per_gallon": 1.457
+  },
+  {
+    "week_of": "2001-02-26T00:00:00",
+    "dollars_per_gallon": 1.471
+  },
+  {
+    "week_of": "2001-02-19T00:00:00",
+    "dollars_per_gallon": 1.489
+  },
+  {
+    "week_of": "2001-02-12T00:00:00",
+    "dollars_per_gallon": 1.515
+  },
+  {
+    "week_of": "2001-02-05T00:00:00",
+    "dollars_per_gallon": 1.483
+  },
+  {
+    "week_of": "2001-01-29T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2001-01-22T00:00:00",
+    "dollars_per_gallon": 1.511
+  },
+  {
+    "week_of": "2001-01-15T00:00:00",
+    "dollars_per_gallon": 1.513
+  },
+  {
+    "week_of": "2001-01-08T00:00:00",
+    "dollars_per_gallon": 1.465
+  },
+  {
+    "week_of": "2001-01-01T00:00:00",
+    "dollars_per_gallon": 1.446
+  },
+  {
+    "week_of": "2000-12-25T00:00:00",
+    "dollars_per_gallon": 1.453
+  },
+  {
+    "week_of": "2000-12-18T00:00:00",
+    "dollars_per_gallon": 1.462
+  },
+  {
+    "week_of": "2000-12-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2000-12-04T00:00:00",
+    "dollars_per_gallon": 1.526
+  },
+  {
+    "week_of": "2000-11-27T00:00:00",
+    "dollars_per_gallon": 1.549
+  },
+  {
+    "week_of": "2000-11-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2000-11-13T00:00:00",
+    "dollars_per_gallon": 1.562
+  },
+  {
+    "week_of": "2000-11-06T00:00:00",
+    "dollars_per_gallon": 1.565
+  },
+  {
+    "week_of": "2000-10-30T00:00:00",
+    "dollars_per_gallon": 1.584
+  },
+  {
+    "week_of": "2000-10-23T00:00:00",
+    "dollars_per_gallon": 1.588
+  },
+  {
+    "week_of": "2000-10-16T00:00:00",
+    "dollars_per_gallon": 1.578
+  },
+  {
+    "week_of": "2000-10-09T00:00:00",
+    "dollars_per_gallon": 1.541
+  },
+  {
+    "week_of": "2000-10-02T00:00:00",
+    "dollars_per_gallon": 1.563
+  },
+  {
+    "week_of": "2000-09-25T00:00:00",
+    "dollars_per_gallon": 1.586
+  },
+  {
+    "week_of": "2000-09-18T00:00:00",
+    "dollars_per_gallon": 1.599
+  },
+  {
+    "week_of": "2000-09-11T00:00:00",
+    "dollars_per_gallon": 1.598
+  },
+  {
+    "week_of": "2000-09-04T00:00:00",
+    "dollars_per_gallon": 1.568
+  },
+  {
+    "week_of": "2000-08-28T00:00:00",
+    "dollars_per_gallon": 1.521
+  },
+  {
+    "week_of": "2000-08-21T00:00:00",
+    "dollars_per_gallon": 1.508
+  },
+  {
+    "week_of": "2000-08-14T00:00:00",
+    "dollars_per_gallon": 1.489
+  },
+  {
+    "week_of": "2000-08-07T00:00:00",
+    "dollars_per_gallon": 1.504
+  },
+  {
+    "week_of": "2000-07-31T00:00:00",
+    "dollars_per_gallon": 1.514
+  },
+  {
+    "week_of": "2000-07-24T00:00:00",
+    "dollars_per_gallon": 1.562
+  },
+  {
+    "week_of": "2000-07-17T00:00:00",
+    "dollars_per_gallon": 1.586
+  },
+  {
+    "week_of": "2000-07-10T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "2000-07-03T00:00:00",
+    "dollars_per_gallon": 1.661
+  },
+  {
+    "week_of": "2000-06-26T00:00:00",
+    "dollars_per_gallon": 1.691
+  },
+  {
+    "week_of": "2000-06-19T00:00:00",
+    "dollars_per_gallon": 1.711
+  },
+  {
+    "week_of": "2000-06-12T00:00:00",
+    "dollars_per_gallon": 1.664
+  },
+  {
+    "week_of": "2000-06-05T00:00:00",
+    "dollars_per_gallon": 1.599
+  },
+  {
+    "week_of": "2000-05-29T00:00:00",
+    "dollars_per_gallon": 1.579
+  },
+  {
+    "week_of": "2000-05-22T00:00:00",
+    "dollars_per_gallon": 1.566
+  },
+  {
+    "week_of": "2000-05-15T00:00:00",
+    "dollars_per_gallon": 1.531
+  },
+  {
+    "week_of": "2000-05-08T00:00:00",
+    "dollars_per_gallon": 1.495
+  },
+  {
+    "week_of": "2000-05-01T00:00:00",
+    "dollars_per_gallon": 1.461
+  },
+  {
+    "week_of": "2000-04-24T00:00:00",
+    "dollars_per_gallon": 1.478
+  },
+  {
+    "week_of": "2000-04-17T00:00:00",
+    "dollars_per_gallon": 1.486
+  },
+  {
+    "week_of": "2000-04-10T00:00:00",
+    "dollars_per_gallon": 1.516
+  },
+  {
+    "week_of": "2000-04-03T00:00:00",
+    "dollars_per_gallon": 1.543
+  },
+  {
+    "week_of": "2000-03-27T00:00:00",
+    "dollars_per_gallon": 1.549
+  },
+  {
+    "week_of": "2000-03-20T00:00:00",
+    "dollars_per_gallon": 1.569
+  },
+  {
+    "week_of": "2000-03-13T00:00:00",
+    "dollars_per_gallon": 1.566
+  },
+  {
+    "week_of": "2000-03-06T00:00:00",
+    "dollars_per_gallon": 1.539
+  },
+  {
+    "week_of": "2000-02-28T00:00:00",
+    "dollars_per_gallon": 1.458
+  },
+  {
+    "week_of": "2000-02-21T00:00:00",
+    "dollars_per_gallon": 1.443
+  },
+  {
+    "week_of": "2000-02-14T00:00:00",
+    "dollars_per_gallon": 1.394
+  },
+  {
+    "week_of": "2000-02-07T00:00:00",
+    "dollars_per_gallon": 1.364
+  },
+  {
+    "week_of": "2000-01-31T00:00:00",
+    "dollars_per_gallon": 1.355
+  },
+  {
+    "week_of": "2000-01-24T00:00:00",
+    "dollars_per_gallon": 1.354
+  },
+  {
+    "week_of": "2000-01-17T00:00:00",
+    "dollars_per_gallon": 1.318
+  },
+  {
+    "week_of": "2000-01-10T00:00:00",
+    "dollars_per_gallon": 1.304
+  },
+  {
+    "week_of": "2000-01-03T00:00:00",
+    "dollars_per_gallon": 1.312
+  },
+  {
+    "week_of": "1999-12-27T00:00:00",
+    "dollars_per_gallon": 1.314
+  },
+  {
+    "week_of": "1999-12-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-12-13T00:00:00",
+    "dollars_per_gallon": 1.315
+  },
+  {
+    "week_of": "1999-12-06T00:00:00",
+    "dollars_per_gallon": 1.313
+  },
+  {
+    "week_of": "1999-11-29T00:00:00",
+    "dollars_per_gallon": 1.315
+  },
+  {
+    "week_of": "1999-11-22T00:00:00",
+    "dollars_per_gallon": 1.309
+  },
+  {
+    "week_of": "1999-11-15T00:00:00",
+    "dollars_per_gallon": 1.292
+  },
+  {
+    "week_of": "1999-11-08T00:00:00",
+    "dollars_per_gallon": 1.274
+  },
+  {
+    "week_of": "1999-11-01T00:00:00",
+    "dollars_per_gallon": 1.271
+  },
+  {
+    "week_of": "1999-10-25T00:00:00",
+    "dollars_per_gallon": 1.277
+  },
+  {
+    "week_of": "1999-10-18T00:00:00",
+    "dollars_per_gallon": 1.277
+  },
+  {
+    "week_of": "1999-10-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-10-04T00:00:00",
+    "dollars_per_gallon": 1.296
+  },
+  {
+    "week_of": "1999-09-27T00:00:00",
+    "dollars_per_gallon": 1.302
+  },
+  {
+    "week_of": "1999-09-20T00:00:00",
+    "dollars_per_gallon": 1.307
+  },
+  {
+    "week_of": "1999-09-13T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-09-06T00:00:00",
+    "dollars_per_gallon": 1.282
+  },
+  {
+    "week_of": "1999-08-30T00:00:00",
+    "dollars_per_gallon": 1.273
+  },
+  {
+    "week_of": "1999-08-23T00:00:00",
+    "dollars_per_gallon": 1.273
+  },
+  {
+    "week_of": "1999-08-16T00:00:00",
+    "dollars_per_gallon": 1.275
+  },
+  {
+    "week_of": "1999-08-09T00:00:00",
+    "dollars_per_gallon": 1.246
+  },
+  {
+    "week_of": "1999-08-02T00:00:00",
+    "dollars_per_gallon": 1.234
+  },
+  {
+    "week_of": "1999-07-26T00:00:00",
+    "dollars_per_gallon": 1.232
+  },
+  {
+    "week_of": "1999-07-19T00:00:00",
+    "dollars_per_gallon": 1.208
+  },
+  {
+    "week_of": "1999-07-12T00:00:00",
+    "dollars_per_gallon": 1.182
+  },
+  {
+    "week_of": "1999-07-05T00:00:00",
+    "dollars_per_gallon": 1.165
+  },
+  {
+    "week_of": "1999-06-28T00:00:00",
+    "dollars_per_gallon": 1.153
+  },
+  {
+    "week_of": "1999-06-21T00:00:00",
+    "dollars_per_gallon": 1.163
+  },
+  {
+    "week_of": "1999-06-14T00:00:00",
+    "dollars_per_gallon": 1.148
+  },
+  {
+    "week_of": "1999-06-07T00:00:00",
+    "dollars_per_gallon": 1.152
+  },
+  {
+    "week_of": "1999-05-31T00:00:00",
+    "dollars_per_gallon": 1.151
+  },
+  {
+    "week_of": "1999-05-24T00:00:00",
+    "dollars_per_gallon": 1.166
+  },
+  {
+    "week_of": "1999-05-17T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-05-10T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-05-03T00:00:00",
+    "dollars_per_gallon": 1.176
+  },
+  {
+    "week_of": "1999-04-26T00:00:00",
+    "dollars_per_gallon": 1.171
+  },
+  {
+    "week_of": "1999-04-19T00:00:00",
+    "dollars_per_gallon": 1.175
+  },
+  {
+    "week_of": "1999-04-12T00:00:00",
+    "dollars_per_gallon": 1.179
+  },
+  {
+    "week_of": "1999-04-05T00:00:00",
+    "dollars_per_gallon": 1.158
+  },
+  {
+    "week_of": "1999-03-29T00:00:00",
+    "dollars_per_gallon": 1.121
+  },
+  {
+    "week_of": "1999-03-22T00:00:00",
+    "dollars_per_gallon": 1.056
+  },
+  {
+    "week_of": "1999-03-15T00:00:00",
+    "dollars_per_gallon": 1.017
+  },
+  {
+    "week_of": "1999-03-08T00:00:00",
+    "dollars_per_gallon": 0.963
+  },
+  {
+    "week_of": "1999-03-01T00:00:00",
+    "dollars_per_gallon": 0.955
+  },
+  {
+    "week_of": "1999-02-22T00:00:00",
+    "dollars_per_gallon": 0.949
+  },
+  {
+    "week_of": "1999-02-15T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1999-02-08T00:00:00",
+    "dollars_per_gallon": 0.968
+  },
+  {
+    "week_of": "1999-02-01T00:00:00",
+    "dollars_per_gallon": 0.971
+  },
+  {
+    "week_of": "1999-01-25T00:00:00",
+    "dollars_per_gallon": 0.977
+  },
+  {
+    "week_of": "1999-01-18T00:00:00",
+    "dollars_per_gallon": 0.985
+  },
+  {
+    "week_of": "1999-01-11T00:00:00",
+    "dollars_per_gallon": 0.982
+  },
+  {
+    "week_of": "1999-01-04T00:00:00",
+    "dollars_per_gallon": 0.977
+  },
+  {
+    "week_of": "1998-12-28T00:00:00",
+    "dollars_per_gallon": 0.979
+  },
+  {
+    "week_of": "1998-12-21T00:00:00",
+    "dollars_per_gallon": 0.986
+  },
+  {
+    "week_of": "1998-12-14T00:00:00",
+    "dollars_per_gallon": 0.987
+  },
+  {
+    "week_of": "1998-12-07T00:00:00",
+    "dollars_per_gallon": 0.996
+  },
+  {
+    "week_of": "1998-11-30T00:00:00",
+    "dollars_per_gallon": 1.015
+  },
+  {
+    "week_of": "1998-11-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1998-11-16T00:00:00",
+    "dollars_per_gallon": 1.037
+  },
+  {
+    "week_of": "1998-11-09T00:00:00",
+    "dollars_per_gallon": 1.048
+  },
+  {
+    "week_of": "1998-11-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1998-10-26T00:00:00",
+    "dollars_per_gallon": 1.055
+  },
+  {
+    "week_of": "1998-10-19T00:00:00",
+    "dollars_per_gallon": 1.058
+  },
+  {
+    "week_of": "1998-10-12T00:00:00",
+    "dollars_per_gallon": 1.063
+  },
+  {
+    "week_of": "1998-10-05T00:00:00",
+    "dollars_per_gallon": 1.059
+  },
+  {
+    "week_of": "1998-09-28T00:00:00",
+    "dollars_per_gallon": 1.053
+  },
+  {
+    "week_of": "1998-09-21T00:00:00",
+    "dollars_per_gallon": 1.053
+  },
+  {
+    "week_of": "1998-09-14T00:00:00",
+    "dollars_per_gallon": 1.042
+  },
+  {
+    "week_of": "1998-09-07T00:00:00",
+    "dollars_per_gallon": 1.046
+  },
+  {
+    "week_of": "1998-08-31T00:00:00",
+    "dollars_per_gallon": 1.053
+  },
+  {
+    "week_of": "1998-08-24T00:00:00",
+    "dollars_per_gallon": 1.058
+  },
+  {
+    "week_of": "1998-08-17T00:00:00",
+    "dollars_per_gallon": 1.065
+  },
+  {
+    "week_of": "1998-08-10T00:00:00",
+    "dollars_per_gallon": 1.072
+  },
+  {
+    "week_of": "1998-08-03T00:00:00",
+    "dollars_per_gallon": 1.077
+  },
+  {
+    "week_of": "1998-07-27T00:00:00",
+    "dollars_per_gallon": 1.088
+  },
+  {
+    "week_of": "1998-07-20T00:00:00",
+    "dollars_per_gallon": 1.097
+  },
+  {
+    "week_of": "1998-07-13T00:00:00",
+    "dollars_per_gallon": 1.092
+  },
+  {
+    "week_of": "1998-07-06T00:00:00",
+    "dollars_per_gallon": 1.097
+  },
+  {
+    "week_of": "1998-06-29T00:00:00",
+    "dollars_per_gallon": 1.096
+  },
+  {
+    "week_of": "1998-06-22T00:00:00",
+    "dollars_per_gallon": 1.096
+  },
+  {
+    "week_of": "1998-06-15T00:00:00",
+    "dollars_per_gallon": 1.104
+  },
+  {
+    "week_of": "1998-06-08T00:00:00",
+    "dollars_per_gallon": 1.113
+  },
+  {
+    "week_of": "1998-06-01T00:00:00",
+    "dollars_per_gallon": 1.104
+  },
+  {
+    "week_of": "1998-05-25T00:00:00",
+    "dollars_per_gallon": 1.108
+  },
+  {
+    "week_of": "1998-05-18T00:00:00",
+    "dollars_per_gallon": 1.109
+  },
+  {
+    "week_of": "1998-05-11T00:00:00",
+    "dollars_per_gallon": 1.109
+  },
+  {
+    "week_of": "1998-05-04T00:00:00",
+    "dollars_per_gallon": 1.095
+  },
+  {
+    "week_of": "1998-04-27T00:00:00",
+    "dollars_per_gallon": 1.086
+  },
+  {
+    "week_of": "1998-04-20T00:00:00",
+    "dollars_per_gallon": 1.075
+  },
+  {
+    "week_of": "1998-04-13T00:00:00",
+    "dollars_per_gallon": 1.072
+  },
+  {
+    "week_of": "1998-04-06T00:00:00",
+    "dollars_per_gallon": 1.074
+  },
+  {
+    "week_of": "1998-03-30T00:00:00",
+    "dollars_per_gallon": 1.077
+  },
+  {
+    "week_of": "1998-03-23T00:00:00",
+    "dollars_per_gallon": 1.047
+  },
+  {
+    "week_of": "1998-03-16T00:00:00",
+    "dollars_per_gallon": 1.055
+  },
+  {
+    "week_of": "1998-03-09T00:00:00",
+    "dollars_per_gallon": 1.065
+  },
+  {
+    "week_of": "1998-03-02T00:00:00",
+    "dollars_per_gallon": 1.075
+  },
+  {
+    "week_of": "1998-02-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1998-02-16T00:00:00",
+    "dollars_per_gallon": 1.085
+  },
+  {
+    "week_of": "1998-02-09T00:00:00",
+    "dollars_per_gallon": 1.101
+  },
+  {
+    "week_of": "1998-02-02T00:00:00",
+    "dollars_per_gallon": 1.108
+  },
+  {
+    "week_of": "1998-01-26T00:00:00",
+    "dollars_per_gallon": 1.112
+  },
+  {
+    "week_of": "1998-01-19T00:00:00",
+    "dollars_per_gallon": 1.129
+  },
+  {
+    "week_of": "1998-01-12T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1998-01-05T00:00:00",
+    "dollars_per_gallon": 1.148
+  },
+  {
+    "week_of": "1997-12-29T00:00:00",
+    "dollars_per_gallon": 1.158
+  },
+  {
+    "week_of": "1997-12-22T00:00:00",
+    "dollars_per_gallon": 1.167
+  },
+  {
+    "week_of": "1997-12-15T00:00:00",
+    "dollars_per_gallon": 1.176
+  },
+  {
+    "week_of": "1997-12-08T00:00:00",
+    "dollars_per_gallon": 1.187
+  },
+  {
+    "week_of": "1997-12-01T00:00:00",
+    "dollars_per_gallon": 1.197
+  },
+  {
+    "week_of": "1997-11-24T00:00:00",
+    "dollars_per_gallon": 1.207
+  },
+  {
+    "week_of": "1997-11-17T00:00:00",
+    "dollars_per_gallon": 1.213
+  },
+  {
+    "week_of": "1997-11-10T00:00:00",
+    "dollars_per_gallon": 1.222
+  },
+  {
+    "week_of": "1997-11-03T00:00:00",
+    "dollars_per_gallon": 1.221
+  },
+  {
+    "week_of": "1997-10-27T00:00:00",
+    "dollars_per_gallon": 1.228
+  },
+  {
+    "week_of": "1997-10-20T00:00:00",
+    "dollars_per_gallon": 1.238
+  },
+  {
+    "week_of": "1997-10-13T00:00:00",
+    "dollars_per_gallon": 1.248
+  },
+  {
+    "week_of": "1997-10-06T00:00:00",
+    "dollars_per_gallon": 1.254
+  },
+  {
+    "week_of": "1997-09-29T00:00:00",
+    "dollars_per_gallon": 1.255
+  },
+  {
+    "week_of": "1997-09-22T00:00:00",
+    "dollars_per_gallon": 1.269
+  },
+  {
+    "week_of": "1997-09-15T00:00:00",
+    "dollars_per_gallon": 1.281
+  },
+  {
+    "week_of": "1997-09-08T00:00:00",
+    "dollars_per_gallon": 1.288
+  },
+  {
+    "week_of": "1997-09-01T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1997-08-25T00:00:00",
+    "dollars_per_gallon": 1.288
+  },
+  {
+    "week_of": "1997-08-18T00:00:00",
+    "dollars_per_gallon": 1.274
+  },
+  {
+    "week_of": "1997-08-11T00:00:00",
+    "dollars_per_gallon": 1.272
+  },
+  {
+    "week_of": "1997-08-04T00:00:00",
+    "dollars_per_gallon": 1.237
+  },
+  {
+    "week_of": "1997-07-28T00:00:00",
+    "dollars_per_gallon": 1.216
+  },
+  {
+    "week_of": "1997-07-21T00:00:00",
+    "dollars_per_gallon": 1.222
+  },
+  {
+    "week_of": "1997-07-14T00:00:00",
+    "dollars_per_gallon": 1.219
+  },
+  {
+    "week_of": "1997-07-07T00:00:00",
+    "dollars_per_gallon": 1.222
+  },
+  {
+    "week_of": "1997-06-30T00:00:00",
+    "dollars_per_gallon": 1.226
+  },
+  {
+    "week_of": "1997-06-23T00:00:00",
+    "dollars_per_gallon": 1.232
+  },
+  {
+    "week_of": "1997-06-16T00:00:00",
+    "dollars_per_gallon": 1.242
+  },
+  {
+    "week_of": "1997-06-09T00:00:00",
+    "dollars_per_gallon": 1.251
+  },
+  {
+    "week_of": "1997-06-02T00:00:00",
+    "dollars_per_gallon": 1.258
+  },
+  {
+    "week_of": "1997-05-26T00:00:00",
+    "dollars_per_gallon": 1.255
+  },
+  {
+    "week_of": "1997-05-19T00:00:00",
+    "dollars_per_gallon": 1.247
+  },
+  {
+    "week_of": "1997-05-12T00:00:00",
+    "dollars_per_gallon": 1.238
+  },
+  {
+    "week_of": "1997-05-05T00:00:00",
+    "dollars_per_gallon": 1.238
+  },
+  {
+    "week_of": "1997-04-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1997-04-21T00:00:00",
+    "dollars_per_gallon": 1.245
+  },
+  {
+    "week_of": "1997-04-14T00:00:00",
+    "dollars_per_gallon": 1.244
+  },
+  {
+    "week_of": "1997-04-07T00:00:00",
+    "dollars_per_gallon": 1.248
+  },
+  {
+    "week_of": "1997-03-31T00:00:00",
+    "dollars_per_gallon": 1.246
+  },
+  {
+    "week_of": "1997-03-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1997-03-17T00:00:00",
+    "dollars_per_gallon": 1.246
+  },
+  {
+    "week_of": "1997-03-10T00:00:00",
+    "dollars_per_gallon": 1.253
+  },
+  {
+    "week_of": "1997-03-03T00:00:00",
+    "dollars_per_gallon": 1.261
+  },
+  {
+    "week_of": "1997-02-24T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1997-02-17T00:00:00",
+    "dollars_per_gallon": 1.273
+  },
+  {
+    "week_of": "1997-02-10T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1997-02-03T00:00:00",
+    "dollars_per_gallon": 1.282
+  },
+  {
+    "week_of": "1997-01-27T00:00:00",
+    "dollars_per_gallon": 1.284
+  },
+  {
+    "week_of": "1997-01-20T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1997-01-13T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1997-01-06T00:00:00",
+    "dollars_per_gallon": 1.272
+  },
+  {
+    "week_of": "1996-12-30T00:00:00",
+    "dollars_per_gallon": 1.274
+  },
+  {
+    "week_of": "1996-12-23T00:00:00",
+    "dollars_per_gallon": 1.278
+  },
+  {
+    "week_of": "1996-12-16T00:00:00",
+    "dollars_per_gallon": 1.283
+  },
+  {
+    "week_of": "1996-12-09T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1996-12-02T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1996-11-25T00:00:00",
+    "dollars_per_gallon": 1.289
+  },
+  {
+    "week_of": "1996-11-18T00:00:00",
+    "dollars_per_gallon": 1.282
+  },
+  {
+    "week_of": "1996-11-11T00:00:00",
+    "dollars_per_gallon": 1.272
+  },
+  {
+    "week_of": "1996-11-04T00:00:00",
+    "dollars_per_gallon": 1.268
+  },
+  {
+    "week_of": "1996-10-28T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-10-21T00:00:00",
+    "dollars_per_gallon": 1.249
+  },
+  {
+    "week_of": "1996-10-14T00:00:00",
+    "dollars_per_gallon": 1.248
+  },
+  {
+    "week_of": "1996-10-07T00:00:00",
+    "dollars_per_gallon": 1.239
+  },
+  {
+    "week_of": "1996-09-30T00:00:00",
+    "dollars_per_gallon": 1.245
+  },
+  {
+    "week_of": "1996-09-23T00:00:00",
+    "dollars_per_gallon": 1.251
+  },
+  {
+    "week_of": "1996-09-16T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-09-09T00:00:00",
+    "dollars_per_gallon": 1.247
+  },
+  {
+    "week_of": "1996-09-02T00:00:00",
+    "dollars_per_gallon": 1.242
+  },
+  {
+    "week_of": "1996-08-26T00:00:00",
+    "dollars_per_gallon": 1.253
+  },
+  {
+    "week_of": "1996-08-19T00:00:00",
+    "dollars_per_gallon": 1.249
+  },
+  {
+    "week_of": "1996-08-12T00:00:00",
+    "dollars_per_gallon": 1.248
+  },
+  {
+    "week_of": "1996-08-05T00:00:00",
+    "dollars_per_gallon": 1.253
+  },
+  {
+    "week_of": "1996-07-29T00:00:00",
+    "dollars_per_gallon": 1.263
+  },
+  {
+    "week_of": "1996-07-22T00:00:00",
+    "dollars_per_gallon": 1.272
+  },
+  {
+    "week_of": "1996-07-15T00:00:00",
+    "dollars_per_gallon": 1.273
+  },
+  {
+    "week_of": "1996-07-08T00:00:00",
+    "dollars_per_gallon": 1.276
+  },
+  {
+    "week_of": "1996-07-01T00:00:00",
+    "dollars_per_gallon": 1.279
+  },
+  {
+    "week_of": "1996-06-24T00:00:00",
+    "dollars_per_gallon": 1.289
+  },
+  {
+    "week_of": "1996-06-17T00:00:00",
+    "dollars_per_gallon": 1.302
+  },
+  {
+    "week_of": "1996-06-10T00:00:00",
+    "dollars_per_gallon": 1.307
+  },
+  {
+    "week_of": "1996-06-03T00:00:00",
+    "dollars_per_gallon": 1.315
+  },
+  {
+    "week_of": "1996-05-27T00:00:00",
+    "dollars_per_gallon": 1.321
+  },
+  {
+    "week_of": "1996-05-20T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-05-13T00:00:00",
+    "dollars_per_gallon": 1.323
+  },
+  {
+    "week_of": "1996-05-06T00:00:00",
+    "dollars_per_gallon": 1.321
+  },
+  {
+    "week_of": "1996-04-29T00:00:00",
+    "dollars_per_gallon": 1.318
+  },
+  {
+    "week_of": "1996-04-22T00:00:00",
+    "dollars_per_gallon": 1.301
+  },
+  {
+    "week_of": "1996-04-15T00:00:00",
+    "dollars_per_gallon": 1.287
+  },
+  {
+    "week_of": "1996-04-08T00:00:00",
+    "dollars_per_gallon": 1.248
+  },
+  {
+    "week_of": "1996-04-01T00:00:00",
+    "dollars_per_gallon": 1.223
+  },
+  {
+    "week_of": "1996-03-25T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-03-18T00:00:00",
+    "dollars_per_gallon": 1.181
+  },
+  {
+    "week_of": "1996-03-11T00:00:00",
+    "dollars_per_gallon": 1.171
+  },
+  {
+    "week_of": "1996-03-04T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-02-26T00:00:00",
+    "dollars_per_gallon": 1.153
+  },
+  {
+    "week_of": "1996-02-19T00:00:00",
+    "dollars_per_gallon": 1.133
+  },
+  {
+    "week_of": "1996-02-12T00:00:00",
+    "dollars_per_gallon": 1.126
+  },
+  {
+    "week_of": "1996-02-05T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1996-01-29T00:00:00",
+    "dollars_per_gallon": 1.133
+  },
+  {
+    "week_of": "1996-01-22T00:00:00",
+    "dollars_per_gallon": 1.138
+  },
+  {
+    "week_of": "1996-01-15T00:00:00",
+    "dollars_per_gallon": 1.145
+  },
+  {
+    "week_of": "1996-01-08T00:00:00",
+    "dollars_per_gallon": 1.139
+  },
+  {
+    "week_of": "1996-01-01T00:00:00",
+    "dollars_per_gallon": 1.129
+  },
+  {
+    "week_of": "1995-12-25T00:00:00",
+    "dollars_per_gallon": 1.128
+  },
+  {
+    "week_of": "1995-12-18T00:00:00",
+    "dollars_per_gallon": 1.124
+  },
+  {
+    "week_of": "1995-12-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1995-12-04T00:00:00",
+    "dollars_per_gallon": 1.108
+  },
+  {
+    "week_of": "1995-11-27T00:00:00",
+    "dollars_per_gallon": 1.107
+  },
+  {
+    "week_of": "1995-11-20T00:00:00",
+    "dollars_per_gallon": 1.106
+  },
+  {
+    "week_of": "1995-11-13T00:00:00",
+    "dollars_per_gallon": 1.109
+  },
+  {
+    "week_of": "1995-11-06T00:00:00",
+    "dollars_per_gallon": 1.112
+  },
+  {
+    "week_of": "1995-10-30T00:00:00",
+    "dollars_per_gallon": 1.115
+  },
+  {
+    "week_of": "1995-10-23T00:00:00",
+    "dollars_per_gallon": 1.125
+  },
+  {
+    "week_of": "1995-10-16T00:00:00",
+    "dollars_per_gallon": 1.133
+  },
+  {
+    "week_of": "1995-10-09T00:00:00",
+    "dollars_per_gallon": 1.144
+  },
+  {
+    "week_of": "1995-10-02T00:00:00",
+    "dollars_per_gallon": 1.151
+  },
+  {
+    "week_of": "1995-09-25T00:00:00",
+    "dollars_per_gallon": 1.156
+  },
+  {
+    "week_of": "1995-09-18T00:00:00",
+    "dollars_per_gallon": 1.157
+  },
+  {
+    "week_of": "1995-09-11T00:00:00",
+    "dollars_per_gallon": 1.158
+  },
+  {
+    "week_of": "1995-09-04T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1995-08-28T00:00:00",
+    "dollars_per_gallon": 1.163
+  },
+  {
+    "week_of": "1995-08-21T00:00:00",
+    "dollars_per_gallon": 1.171
+  },
+  {
+    "week_of": "1995-08-14T00:00:00",
+    "dollars_per_gallon": 1.172
+  },
+  {
+    "week_of": "1995-08-07T00:00:00",
+    "dollars_per_gallon": 1.174
+  },
+  {
+    "week_of": "1995-07-31T00:00:00",
+    "dollars_per_gallon": 1.179
+  },
+  {
+    "week_of": "1995-07-24T00:00:00",
+    "dollars_per_gallon": 1.191
+  },
+  {
+    "week_of": "1995-07-17T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1995-07-10T00:00:00",
+    "dollars_per_gallon": 1.212
+  },
+  {
+    "week_of": "1995-07-03T00:00:00",
+    "dollars_per_gallon": 1.222
+  },
+  {
+    "week_of": "1995-06-26T00:00:00",
+    "dollars_per_gallon": 1.229
+  },
+  {
+    "week_of": "1995-06-19T00:00:00",
+    "dollars_per_gallon": 1.236
+  },
+  {
+    "week_of": "1995-06-12T00:00:00",
+    "dollars_per_gallon": 1.243
+  },
+  {
+    "week_of": "1995-06-05T00:00:00",
+    "dollars_per_gallon": 1.246
+  },
+  {
+    "week_of": "1995-05-29T00:00:00",
+    "dollars_per_gallon": 1.246
+  },
+  {
+    "week_of": "1995-05-22T00:00:00",
+    "dollars_per_gallon": 1.244
+  },
+  {
+    "week_of": "1995-05-15T00:00:00",
+    "dollars_per_gallon": 1.226
+  },
+  {
+    "week_of": "1995-05-08T00:00:00",
+    "dollars_per_gallon": 1.216
+  },
+  {
+    "week_of": "1995-05-01T00:00:00",
+    "dollars_per_gallon": 1.194
+  },
+  {
+    "week_of": "1995-04-24T00:00:00",
+    "dollars_per_gallon": 1.184
+  },
+  {
+    "week_of": "1995-04-17T00:00:00",
+    "dollars_per_gallon": 1.163
+  },
+  {
+    "week_of": "1995-04-10T00:00:00",
+    "dollars_per_gallon": 1.149
+  },
+  {
+    "week_of": "1995-04-03T00:00:00",
+    "dollars_per_gallon": 1.133
+  },
+  {
+    "week_of": "1995-03-27T00:00:00",
+    "dollars_per_gallon": 1.121
+  },
+  {
+    "week_of": "1995-03-20T00:00:00",
+    "dollars_per_gallon": 1.114
+  },
+  {
+    "week_of": "1995-03-13T00:00:00",
+    "dollars_per_gallon": 1.116
+  },
+  {
+    "week_of": "1995-03-06T00:00:00",
+    "dollars_per_gallon": 1.123
+  },
+  {
+    "week_of": "1995-02-27T00:00:00",
+    "dollars_per_gallon": 1.121
+  },
+  {
+    "week_of": "1995-02-20T00:00:00",
+    "dollars_per_gallon": 1.115
+  },
+  {
+    "week_of": "1995-02-13T00:00:00",
+    "dollars_per_gallon": 1.121
+  },
+  {
+    "week_of": "1995-02-06T00:00:00",
+    "dollars_per_gallon": 1.124
+  },
+  {
+    "week_of": "1995-01-30T00:00:00",
+    "dollars_per_gallon": 1.131
+  },
+  {
+    "week_of": "1995-01-23T00:00:00",
+    "dollars_per_gallon": 1.132
+  },
+  {
+    "week_of": "1995-01-16T00:00:00",
+    "dollars_per_gallon": 1.126
+  },
+  {
+    "week_of": "1995-01-09T00:00:00",
+    "dollars_per_gallon": 1.134
+  },
+  {
+    "week_of": "1995-01-02T00:00:00",
+    "dollars_per_gallon": 1.127
+  },
+  {
+    "week_of": "1994-12-26T00:00:00",
+    "dollars_per_gallon": 1.125
+  },
+  {
+    "week_of": "1994-12-19T00:00:00",
+    "dollars_per_gallon": 1.134
+  },
+  {
+    "week_of": "1994-12-12T00:00:00",
+    "dollars_per_gallon": 1.131
+  },
+  {
+    "week_of": "1994-12-05T00:00:00",
+    "dollars_per_gallon": 1.127
+  },
+  {
+    "week_of": "1994-11-28T00:00:00",
+    "dollars_per_gallon": 1.117
+  },
+  {
+    "week_of": "1994-11-21T00:00:00",
+    "dollars_per_gallon": 1.113
+  },
+  {
+    "week_of": "1994-11-14T00:00:00",
+    "dollars_per_gallon": 1.122
+  },
+  {
+    "week_of": "1994-11-07T00:00:00",
+    "dollars_per_gallon": 1.123
+  },
+  {
+    "week_of": "1994-10-31T00:00:00",
+    "dollars_per_gallon": 1.121
+  },
+  {
+    "week_of": "1994-10-24T00:00:00",
+    "dollars_per_gallon": 1.107
+  },
+  {
+    "week_of": "1994-10-17T00:00:00",
+    "dollars_per_gallon": 1.106
+  },
+  {
+    "week_of": "1994-10-10T00:00:00",
+    "dollars_per_gallon": 1.114
+  },
+  {
+    "week_of": "1994-10-03T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-09-26T00:00:00",
+    "dollars_per_gallon": 1.129
+  },
+  {
+    "week_of": "1994-09-19T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-09-12T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-09-05T00:00:00",
+    "dollars_per_gallon": 1.156
+  },
+  {
+    "week_of": "1994-08-29T00:00:00",
+    "dollars_per_gallon": 1.161
+  },
+  {
+    "week_of": "1994-08-22T00:00:00",
+    "dollars_per_gallon": 1.165
+  },
+  {
+    "week_of": "1994-08-15T00:00:00",
+    "dollars_per_gallon": 1.161
+  },
+  {
+    "week_of": "1994-08-08T00:00:00",
+    "dollars_per_gallon": 1.157
+  },
+  {
+    "week_of": "1994-08-01T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-07-25T00:00:00",
+    "dollars_per_gallon": 1.114
+  },
+  {
+    "week_of": "1994-07-18T00:00:00",
+    "dollars_per_gallon": 1.109
+  },
+  {
+    "week_of": "1994-07-11T00:00:00",
+    "dollars_per_gallon": 1.103
+  },
+  {
+    "week_of": "1994-07-04T00:00:00",
+    "dollars_per_gallon": 1.097
+  },
+  {
+    "week_of": "1994-06-27T00:00:00",
+    "dollars_per_gallon": 1.095
+  },
+  {
+    "week_of": "1994-06-20T00:00:00",
+    "dollars_per_gallon": 1.079
+  },
+  {
+    "week_of": "1994-06-13T00:00:00",
+    "dollars_per_gallon": 1.073
+  },
+  {
+    "week_of": "1994-06-06T00:00:00",
+    "dollars_per_gallon": 1.065
+  },
+  {
+    "week_of": "1994-05-30T00:00:00",
+    "dollars_per_gallon": 1.056
+  },
+  {
+    "week_of": "1994-05-23T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-05-16T00:00:00",
+    "dollars_per_gallon": 1.046
+  },
+  {
+    "week_of": "1994-05-09T00:00:00",
+    "dollars_per_gallon": 1.045
+  },
+  {
+    "week_of": "1994-05-02T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1994-04-25T00:00:00",
+    "dollars_per_gallon": 1.037
+  },
+  {
+    "week_of": "1994-04-18T00:00:00",
+    "dollars_per_gallon": 1.033
+  },
+  {
+    "week_of": "1994-04-11T00:00:00",
+    "dollars_per_gallon": 1.028
+  },
+  {
+    "week_of": "1994-04-04T00:00:00",
+    "dollars_per_gallon": 1.011
+  },
+  {
+    "week_of": "1994-03-28T00:00:00",
+    "dollars_per_gallon": 1.012
+  },
+  {
+    "week_of": "1994-03-21T00:00:00",
+    "dollars_per_gallon": 1.007
+  },
+  {
+    "week_of": "1994-03-14T00:00:00",
+    "dollars_per_gallon": 1.005
+  },
+  {
+    "week_of": "1994-03-07T00:00:00",
+    "dollars_per_gallon": 1.007
+  },
+  {
+    "week_of": "1994-02-28T00:00:00",
+    "dollars_per_gallon": 1.004
+  },
+  {
+    "week_of": "1994-02-21T00:00:00",
+    "dollars_per_gallon": 1.009
+  },
+  {
+    "week_of": "1994-02-14T00:00:00",
+    "dollars_per_gallon": 1.016
+  },
+  {
+    "week_of": "1994-02-07T00:00:00",
+    "dollars_per_gallon": 1.007
+  },
+  {
+    "week_of": "1994-01-31T00:00:00",
+    "dollars_per_gallon": 1.005
+  },
+  {
+    "week_of": "1994-01-24T00:00:00",
+    "dollars_per_gallon": 0.999
+  },
+  {
+    "week_of": "1994-01-17T00:00:00",
+    "dollars_per_gallon": 1.001
+  },
+  {
+    "week_of": "1994-01-10T00:00:00",
+    "dollars_per_gallon": 0.995
+  },
+  {
+    "week_of": "1994-01-03T00:00:00",
+    "dollars_per_gallon": 0.992
+  },
+  {
+    "week_of": "1993-12-27T00:00:00",
+    "dollars_per_gallon": 0.999
+  },
+  {
+    "week_of": "1993-12-20T00:00:00",
+    "dollars_per_gallon": 1.003
+  },
+  {
+    "week_of": "1993-12-13T00:00:00",
+    "dollars_per_gallon": 1.018
+  },
+  {
+    "week_of": "1993-12-06T00:00:00",
+    "dollars_per_gallon": 1.036
+  },
+  {
+    "week_of": "1993-11-29T00:00:00",
+    "dollars_per_gallon": 1.051
+  },
+  {
+    "week_of": "1993-11-22T00:00:00",
+    "dollars_per_gallon": 1.058
+  },
+  {
+    "week_of": "1993-11-15T00:00:00",
+    "dollars_per_gallon": 1.064
+  },
+  {
+    "week_of": "1993-11-08T00:00:00",
+    "dollars_per_gallon": 1.075
+  },
+  {
+    "week_of": "1993-11-01T00:00:00",
+    "dollars_per_gallon": 1.084
+  },
+  {
+    "week_of": "1993-10-25T00:00:00",
+    "dollars_per_gallon": 1.092
+  },
+  {
+    "week_of": "1993-10-18T00:00:00",
+    "dollars_per_gallon": 1.093
+  },
+  {
+    "week_of": "1993-10-11T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1993-10-04T00:00:00",
+    "dollars_per_gallon": 1.092
+  },
+  {
+    "week_of": "1993-09-27T00:00:00",
+    "dollars_per_gallon": 1.047
+  },
+  {
+    "week_of": "1993-09-20T00:00:00",
+    "dollars_per_gallon": 1.045
+  },
+  {
+    "week_of": "1993-09-13T00:00:00",
+    "dollars_per_gallon": 1.051
+  },
+  {
+    "week_of": "1993-09-06T00:00:00",
+    "dollars_per_gallon": 1.055
+  },
+  {
+    "week_of": "1993-08-30T00:00:00",
+    "dollars_per_gallon": 1.062
+  },
+  {
+    "week_of": "1993-08-23T00:00:00",
+    "dollars_per_gallon": 1.065
+  },
+  {
+    "week_of": "1993-08-16T00:00:00",
+    "dollars_per_gallon": 1.059
+  },
+  {
+    "week_of": "1993-08-09T00:00:00",
+    "dollars_per_gallon": ""
+  },
+  {
+    "week_of": "1993-08-02T00:00:00",
+    "dollars_per_gallon": 1.062
+  },
+  {
+    "week_of": "1993-07-26T00:00:00",
+    "dollars_per_gallon": 1.069
+  },
+  {
+    "week_of": "1993-07-19T00:00:00",
+    "dollars_per_gallon": 1.075
+  },
+  {
+    "week_of": "1993-07-12T00:00:00",
+    "dollars_per_gallon": 1.081
+  },
+  {
+    "week_of": "1993-07-05T00:00:00",
+    "dollars_per_gallon": 1.086
+  },
+  {
+    "week_of": "1993-06-28T00:00:00",
+    "dollars_per_gallon": 1.089
+  },
+  {
+    "week_of": "1993-06-21T00:00:00",
+    "dollars_per_gallon": 1.095
+  },
+  {
+    "week_of": "1993-06-14T00:00:00",
+    "dollars_per_gallon": 1.101
+  },
+  {
+    "week_of": "1993-06-07T00:00:00",
+    "dollars_per_gallon": 1.104
+  },
+  {
+    "week_of": "1993-05-31T00:00:00",
+    "dollars_per_gallon": 1.107
+  },
+  {
+    "week_of": "1993-05-24T00:00:00",
+    "dollars_per_gallon": 1.106
+  },
+  {
+    "week_of": "1993-05-17T00:00:00",
+    "dollars_per_gallon": 1.106
+  },
+  {
+    "week_of": "1993-05-10T00:00:00",
+    "dollars_per_gallon": 1.097
+  },
+  {
+    "week_of": "1993-05-03T00:00:00",
+    "dollars_per_gallon": 1.086
+  },
+  {
+    "week_of": "1993-04-26T00:00:00",
+    "dollars_per_gallon": 1.086
+  },
+  {
+    "week_of": "1993-04-19T00:00:00",
+    "dollars_per_gallon": 1.079
+  },
+  {
+    "week_of": "1993-04-12T00:00:00",
+    "dollars_per_gallon": 1.079
+  },
+  {
+    "week_of": "1993-04-05T00:00:00",
+    "dollars_per_gallon": ""
+  }
+]
