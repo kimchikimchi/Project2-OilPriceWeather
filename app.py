@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Import libraries
-from flask import Flask, render_template, redirect
+from flask import Flask, json, render_template, redirect, jsonify
 from flask_pymongo import PyMongo
 
 GAS_WEEKLY_PRICE = 'resources/weekly_price.1993_current.csv'
@@ -14,9 +14,15 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/gasprice_db")
 gasprice = mongo.db.gasprice
 
 # Routes
-@app.route('/')
-def index():
-    pass
+@app.route('/getdata')
+def getdata():
+    price_data = gasprice.find_one()
+    # Needed to covert id field's data type from Object ID
+    # to string first to be able to send as as a JSON object
+    price_data['_id'] = str(price_data['_id'])
+
+    return jsonify(price_data)
+    
 
 @app.route('/importdata')
 def importdata():
@@ -39,8 +45,8 @@ def importdata():
 
 
     # Convert into a JSON object
-    gas_price.update({}, price_data, upsert=True)
     # Update the Mongo database and upsert=True
+    gasprice.update({}, {'history': price_data}, upsert=True)
 
     return render_template("index.html")
 
