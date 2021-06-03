@@ -1,13 +1,10 @@
-//d3 json call json file
-console.log("Get data from json file ");
-
-// table body
-var tbody = d3.select("tbody");
-
 // Use d3 to update data table with week and gas price
 d3.json("../data_sample.json").then((data) => {
     // log data 
     console.log(data);
+
+    // table body
+    var tbody = d3.select("tbody");
 
     // append each item in data object to row on table,
     data.forEach(function (gasData) {
