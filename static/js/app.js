@@ -7,7 +7,7 @@ d3.json("http://localhost:5000/getdata").then((data) => {
     var tbody = d3.select("tbody");
 
     // append each item in data object to row on table,
-    data.forEach(function (gasData) {
+    data.history.forEach(function (gasData) {
         var row = tbody.append("tr");
         Object.entries(gasData).forEach(function ([key, value]) {
             // console.log(key, value);
