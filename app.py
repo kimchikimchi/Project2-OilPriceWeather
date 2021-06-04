@@ -14,6 +14,13 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/gasprice_db")
 gasprice = mongo.db.gasprice
 
 # Routes
+@app.route('/')
+def index():
+    # Serving static html pages out of 'static' dir.
+    # See for details: https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+    return app.send_static_file('index.html')
+
+
 @app.route('/getdata')
 def getdata():
     price_data = gasprice.find_one()
@@ -43,12 +50,12 @@ def importdata():
                 'price': price
                 })
 
-
     # Convert into a JSON object
     # Update the Mongo database and upsert=True
     gasprice.update({}, {'history': price_data}, upsert=True)
 
-    return render_template("index.html")
+    # ToDo: Could have sent a status page alerting user data has been uploaded.
+    return app.send_static_file('index.html')
 
 
 if __name__ == "__main__":
