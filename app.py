@@ -13,6 +13,23 @@ app = Flask(__name__)
 mongo = PyMongo(app, uri="mongodb://localhost:27017/gasprice_db")
 gasprice = mongo.db.gasprice
 
+
+# Disable caching during dev stating as it's freaking 
+# annoying to clear browser cache each time code changes.
+# See https://stackoverflow.com/questions/34066804/disabling-caching-in-flask 
+@app.after_request
+def add_header(r):
+    """
+    Add headers to both force latest IE rendering engine or Chrome Frame,
+    and also to cache the rendered page for 10 minutes.
+    """
+    r.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    r.headers["Pragma"] = "no-cache"
+    r.headers["Expires"] = "0"
+    r.headers['Cache-Control'] = 'public, max-age=0'
+    return r
+
+
 # Routes
 @app.route('/')
 def index():
