@@ -45,23 +45,25 @@ d3.json("http://localhost:5000/getdata").then(function (data) {
     const parseTime = d3.timeParse('%b %d, %Y');
 
 
-    //nest
+    //d3.nest
     var groupedData = d3.nest()
-        // .key(function (dt) { return formatMonth(dt.date); })
-        // .key(function (dt) { return formatYear(dt.date); })
-        .key(function (dt) { return dt.date; })
+        .key(function (dt) { return formatYear(parseTime(dt.date)); })
+        .key(function (dt) { return formatMonth(parseTime(dt.date)); })
         .key(function (dt) { return dt.price; })
         .entries(data.history);
 
-    // console.log("ArrayData:", groupedData);
-    
-    groupedData.forEach(function (d) {
-        // console.log(d)
+    console.log(groupedData);
+
+    // groupedData.forEach(function (d) {
+    //     // console.log(d)
+    // });
 
 
-    });
+    //d3.group https://github.com/d3/d3-array/blob/v2.12.1/README.md#group
+    var a = d3.group(data.history, d => d.date).get("Apr 12, 1993")
+    var p = d3.group(data.history, d => d.price).get("1.079")
 
-    var gfg = d3.rollup(data.history, g=>g.length, d=>d.date, d=>d.price);
-    console.log("gfg: ",gfg);
+    console.log(a)
+    console.log(p)
 
 });
