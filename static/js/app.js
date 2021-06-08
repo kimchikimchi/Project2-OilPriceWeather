@@ -60,10 +60,10 @@ d3.json("http://localhost:5000/getdata").then(function (data) {
 
 
     //d3.group https://github.com/d3/d3-array/blob/v2.12.1/README.md#group
-    var a = d3.group(data.history, d => d.date).get("Apr 12, 1993")
-    var p = d3.group(data.history, d => d.price).get("1.079")
+    // var a = d3.group(data.history, d => d.date)//.get("Apr 12, 1993")
+    // var p = d3.group(data.history, d => d.price).get("1.079")
 
-    console.log(a)
-    console.log(p)
+    // console.log(a.get("Apr 12, 1993"))
+    // console.log(p)
 
 });
