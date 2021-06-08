@@ -58,6 +58,9 @@ d3.json(gasdata_url).then(gasdata => {
             tickangle: 90,
         },
         yaxis: {
+            title: {
+                text: "In USD"
+            },
             fixedrange: true,
         }
     };
