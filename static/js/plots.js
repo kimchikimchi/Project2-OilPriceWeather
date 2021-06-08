@@ -8,11 +8,18 @@ d3.json(gasdata_url).then(gasdata => {
     // then collect x,  y axis data
     gasdata.history.forEach(r => {
         r.price = +r.price;
-        dates.push(r.date);
+        // Convert from MMM DD, YYYY to YYYY-MM-DD
+        // so that x axis tickers and labels get dynamically
+        // resized
+        const parser = d3.timeParse('%b %d, %Y');
+        const formatter = d3.timeFormat('%Y-%m-%d');
+        dates.push(formatter(parser(r.date)));
         prices.push(r.price);
     });
 
-    let selectorOptions = {
+    // Adding graph selector options button to limit to
+    // 1mo, ymo, year-to-date, 1y, and all
+    const selectorOptions = {
         buttons: [{
             step: 'month',
             stepmode: 'backward',
@@ -50,12 +57,12 @@ d3.json(gasdata_url).then(gasdata => {
     const data = [trace];
 
     const layout = {
-        title: 'Historic US Gasoline Data',
+        title: 'Historic US Average Gasoline Price (per gallon)',
         xaxis: {
             rangeselector: selectorOptions,
             rangeslider: {},
             showticklabels: true,
-            tickangle: 90,
+            tickangle: 'auto',
         },
         yaxis: {
             title: {
