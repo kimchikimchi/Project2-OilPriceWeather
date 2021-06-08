@@ -53,10 +53,12 @@ d3.json(gasdata_url).then(gasdata => {
         title: 'Historic US Gasoline Data',
         xaxis: {
             rangeselector: selectorOptions,
-            rangeslider: {}
+            rangeslider: {},
+            showticklabels: true,
+            tickangle: 90,
         },
         yaxis: {
-            fixedrange: true
+            fixedrange: true,
         }
     };
 
