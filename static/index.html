@@ -8,7 +8,7 @@
   <!--Adding bootstrap for webpage design-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
   integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
-
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <!-- Setting Webpage header-->
 <div class="text-center" >
   <h1 style="color:black;">Oil Price & Weather Group Project</h1>
@@ -91,17 +91,21 @@
     <div class="col-sm-6 col-md-3">
         <p>
             <h5>Oil Barrel Prices</h5>
-            <a href="/static/oilBarrel.html">
-              <img alt="Oil Prices plot" src="/static/assets/images/oil-barrel.png" class="img-thumbnail">
-           </a>
+            <div data-aos="flip-left">
+              <a href="/static/oilBarrel.html">
+                <img alt="Oil Prices plot" src="/static/assets/images/oil-barrel.png" class="img-thumbnail">
+            </a>
+          </div>
        </p>
     </div>
     <div class="col-sm-6 col-md-3">
         <p>
             <h5>Gas Pump Prices</h5>
-            <a href="/static/gasPump.html">
-              <img alt="Gas Prices plot" src="/static/assets/images/gas-pump.png" class="img-thumbnail">
-           </a>
+            <div data-aos="flip-left">
+              <a href="/static/gasPump.html">
+                <img alt="Gas Prices plot" src="/static/assets/images/gas-pump.png" class="img-thumbnail">
+            </a>
+          </div>
        </p>
     </div>
     <div class="col-sm-6 col-md-3">
@@ -112,5 +116,9 @@
    </div>
 
 </div>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
