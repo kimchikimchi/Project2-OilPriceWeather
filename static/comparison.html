@@ -8,6 +8,7 @@
   <!--Adding bootstrap for webpage design-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
   integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 <!-- Setting Webpage header-->
 <div class="text-center" >
@@ -22,8 +23,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
    
-  <!--Adding D3 for charts-->
+<!--Adding D3 and Plotly libs for charts-->
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  
 
 <!-- Setting Webpage navbar and drop down menu-->
   <div class="navigation" style = "background-color:rgba(0, 0, 0, 0.5);">
@@ -54,44 +57,46 @@
     </nav>
 </div>
 
-</div>
-<h3 class="text-center" style="color:black;">Plot Comparison</h3>
-<div class="row" style="color:grey;">
-
-<div class="col-sm-6">
-  <p>
-      <h5>City Latitude vs. Max Temperature</h5>
-      <a href="/static/temp.html">
-        <img alt="Temperature plot" src="/static/assets/images/Fig1.PNG" class="img-thumbnail">
-     </a>
- </p>
-</div>
-<div class="col-sm-6">
+<div class="col-sm-6 col-md-3">
     <p>
-        <h5>City Latitude vs. Humidity</h5>
-        <a href="/static/humidity.html">
-          <img alt="Humidity plot" src="/static/assets/images/Fig2.PNG" class="img-thumbnail">
-       </a>
-   </p>
-</div>
-<div class="col-sm-6">
-    <p>
-        <h5>City Latitude vs. Cloudiness</h5>
-        <a href="/static/cloudiness.html">
-          <img alt="Cloudiness plot" src="/static/assets/images/Fig3.PNG" class="img-thumbnail">
-       </a>
-   </p>
-</div>
-<div class="col-sm-6">
-    <p>
-        <h5>City Latitude vs. Wind Speed</h5>
-        <a href="/static/wind_speed.html">
-          <img alt="Wind Speed plot" src="/static/assets/images/Fig4.PNG" class="img-thumbnail">
-       </a>
-   </p>
-</div>	
-</div>
-
-</div>
+        
+            <div id="plot0"></div>
+            <div id="plot1"></div>
+            <div id="plot2"></div>
+            <div id="plot3"></div>
+            <div id="plot4"></div>
+            <div id="plot5"></div>
+            <div id="plot6"></div>
+            <div id="plot7"></div>
+            <div id="plot8"></div>
+            <div id="plot9"></div>
+            <div id="plot10"></div>
+            <div id="plot11"></div>
+            <div id="plot12"></div>
+            <div id="plot13"></div>
+            <div id="plot14"></div>
+            <div id="plot15"></div>
+            <div id="plot16"></div>
+            <div id="plot17"></div>
+            <div id="plot18"></div>
+            <div id="plot19"></div>
+            <div id="plot20"></div>
+            <div id="plot21"></div>
+            <div id="plot22"></div>
+            <div id="plot23"></div>
+            <div id="plot24"></div>
+            <div id="plot25"></div>
+            <div id="plot26"></div>
+            <div id="plot27"></div>
+            <div id="plot28"></div>
+            <script src="/static/js/c-chartplots.js"></script>
+        
+    </p>
+  </div>
+ 
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
