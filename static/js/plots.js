@@ -54,7 +54,19 @@ d3.json(gasdata_url).then(gasdata => {
         line: { color: "#17BECF" }
     };
 
-    const data = [trace];
+    const trace_events = {
+        type: 'scatter',
+        mode: 'markers',
+        name: 'Historical Events',
+        x: ['2001-09-11', '2008-09-15', '2014-09-15', 
+    '2020-03-11', '2020-12-14'],
+        y: [1.564, 3.772, 3.534, 2.514, 2.246],
+        text: ['9/11 Attack', 'Lehman Brothers Collapse', 'Oil Glut', 'WHO Declares Pandemic', 'First Person American Vaccinated'],
+        marker: {size: 15}
+
+    };
+
+    const data = [trace, trace_events];
 
     const layout = {
         title: 'Historic US Average Gasoline Price (per gallon)',
