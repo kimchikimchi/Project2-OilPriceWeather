@@ -64,7 +64,6 @@ d3.json(gasdata_url).then(gasdata => {
         y: [1.564, 1.752, 1.618, 2.514, 3.438, 4.131],
         text: ['9/11 Attack', 'Iraq Invasion Ops Begins', 'Iraq Invasion Ops Ends', 'Hurricane Katrica Hits LA', 'Nigerian Militants Attacks Oil Pipeline', 'World Fears an Israeli Attack on Iran'],
         marker: {size: 15}
-
     };
 
     const data = [trace, trace_events];
