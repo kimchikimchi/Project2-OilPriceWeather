@@ -54,25 +54,26 @@ d3.json(gasdata_url).then(gasdata => {
         line: { color: "#17BECF" }
     };
 
+    // Events extracted from https://en.wikipedia.org/wiki/World_oil_market_chronology_from_2003#2004_to_2008:_rising_costs_of_oil
     const trace_events = {
         type: 'scatter',
         mode: 'markers',
         name: 'Historical Events',
-        x: ['2001-09-11', '2008-09-15', '2014-09-15', 
-    '2020-03-11', '2020-12-14'],
-        y: [1.564, 3.772, 3.534, 2.514, 2.246],
-        text: ['9/11 Attack', 'Lehman Brothers Collapse', 'Oil Glut', 'WHO Declares Pandemic', 'First Person American Vaccinated'],
+        x: ['2001-09-11', '2003-03-20', '2003-05-01', 
+    '2005-08-29', '2008-04-18', '2008-06-06'],
+        y: [1.564, 1.752, 1.618, 2.514, 3.438, 4.131],
+        text: ['9/11 Attack', 'Iraq Invasion Ops Begins', 'Iraq Invasion Ops Ends', 'Hurricane Katrica Hits LA', 'Nigerian Militants Attacks Oil Pipeline', 'World Fears an Israeli Attack on Iran'],
         marker: {size: 15}
-
     };
 
     const data = [trace, trace_events];
 
     const layout = {
-        title: 'Historic US Average Gasoline Price (per gallon)',
+        title: 'Iraq War 2004-2011 and US Gas Price(per gallon)',
         xaxis: {
             rangeselector: selectorOptions,
             rangeslider: {},
+            range: ['1998-01-01', '2012-01-01'],
             showticklabels: true,
             tickangle: 'auto',
         },

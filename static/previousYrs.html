@@ -1,55 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <!-- Setting Webpage page title-->
-  <title>OilPriceWeather Group Project</title>
+    <meta charset="UTF-8">
+    <!-- Setting Webpage page title-->
+    <title>OilPriceWeather Group Project</title>
+    
+    <!--Adding bootstrap for webpage design-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-  <!--Adding bootstrap for webpage design-->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
-  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
-
-<!-- Setting Webpage header-->
-<div class="text-center" >
-  <h1 style="color:black;">Oil Price & Weather Group Project</h1>
-  <p></p>
-</div>
-
+    <!-- Setting Webpage header-->
+    <div class="text-center" >
+        <h1 style="color:black;">Oil Price & Weather Group Project</h1>
+        <p></p>
+    </div>
+    
 </head>
-<body style="background-image: url('https://cdn.hipwallpaper.com/i/60/51/CAbQsT.jpg');">
-
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-   
-  <!--Adding D3 for charts-->
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-
-<!-- Setting Webpage navbar and drop down menu-->
-  <div class="navigation" style = "background-color:rgba(0, 0, 0, 0.5);">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
-        <a class="navbar-brand" href="index.html" style="color:grey;">Return to Home</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        CHARTS
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style = "background-color:rgba(0, 0, 0, 0.5);">
-                        <a class="dropdown-item" href="IraqWar.html" style="color:grey;">Iraq War</a>
-                        <a class="dropdown-item" href="previousYrs.html" style="color:grey;">Previous 18 years</a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="comparison.html">COMPARISON</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="data.html">DATA</a>
-                </li>
-            </ul>
+<body style="background-image: url('https://cdn.hipwallpaper.com/i/60/51/CAbQsT.jpg'); background-size: cover; background-attachment: fixed">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
+    <!--Adding D3 and Plotly libs for charts-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    
+    <!-- Setting Webpage navbar and drop down menu-->
+    <div class="navigation" style = "background-color:rgba(0, 0, 0, 0.5);">
+        <nav class="navbar navbar-expand-lg navbar-dark ">
+            <a class="navbar-brand" href="index.html" style="color:grey;">Return to Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            CHARTS
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style = "background-color:rgba(0, 0, 0, 0.5);">
+                            <a class="dropdown-item" href="IraqWar.html" style="color:grey;">Iraq War</a>
+                            <a class="dropdown-item" href="previousYrs.html" style="color:grey;">Previous 18 years</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="comparison.html">COMPARISON</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="data.html">DATA</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+          <p> 
+          </p><!--setting empty boostrap container for page spacing-->
         </div>
-    </nav>
-</div>
+       </div>
+       <div class="row">
+        <div class="col-md-12">
+          <p> 
+          </p><!--setting empty boostrap container for page spacing-->
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-md-12">
+          <p> 
+          </p><!--setting empty boostrap container for page spacing-->
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-md-12">
+          <p> 
+          </p><!--setting empty boostrap container for page spacing-->
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-md-12">
+          <p> 
+          </p><!--setting empty boostrap container for page spacing-->
+        </div>
+       </div>
+    <div id="plot" data-aos="flip-left" data-aos-duration="1500"></div>
+    <script src="/static/js/plots.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+    </body>
+</html>
