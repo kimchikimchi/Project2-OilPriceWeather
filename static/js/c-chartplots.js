@@ -44,29 +44,39 @@ d3.json(gasdata_url).then(gasdata => {
 
     const data = [trace];
     
-    for (var i = 0; i <= yearList.length; i++){
+    for (var i = 0; i <= yearList.length; i++)
+    {
         //const startYear = yearList[0]; // 1993
         //const endYear = yearList[yearList.length - 1];
-        const layout = {
+        if (i <= 27)
+        {
 
-            title: `Year .. Price (per gallon)`,
-            autosize: false,
-            width: 600,
-            height: 500,
-            xaxis: {
-                range: [`${yearList[i]}-01-01`, `${yearList[i+1]}-01-01`],
-                showticklabels: true,
-                tickangle: 'auto',
-            },
-            yaxis: {
-                title: {
-                    text: "In USD"
+            const layout = {
+
+                title: `Year ${yearList[i]} Price (per gallon)`,
+                autosize: false,
+                width: 600,
+                height: 500,
+                xaxis: {
+                    range: [`${yearList[i]}-01-01`, `${yearList[i+1]}-01-01`],
+                    showticklabels: true,
+                    tickangle: 'auto',
                 },
-                fixedrange: true,
-            }
-        };
-        // console.log(yearList[i]);
-        Plotly.newPlot(`plot${i}`, data, layout);
+                yaxis: {
+                    title: {
+                        text: "In USD"
+                    },
+                    fixedrange: true,
+                }
+            };
+            // console.log(yearList[i]);
+            Plotly.newPlot(`plot${i}`, data, layout);
+        }
+
+        else
+        {
+            break;
+        }
   }
 
         // for (var i = 27; i < yearList.length; i++){
