@@ -1,3 +1,18 @@
+// Helper function to calculate average of objects passed in an array
+const calculateMonthlyAvg = function (array) {
+    let avg_price = 0;
+    let total_price = 0;
+    array.forEach(obj => { 
+        // Convert price from string to a number.
+        obj.price = +obj.price;
+        total_price += obj.price;
+    })
+
+    avg_price = total_price / array.length;
+    return avg_price.toFixed(3);
+};
+
+
 // Use d3 to update data table with week and gas price
 d3.json("http://localhost:5000/getdata").then(function (data) {
     // console.log(data.history);
@@ -8,56 +23,62 @@ d3.json("http://localhost:5000/getdata").then(function (data) {
     const parseTime = d3.timeParse('%b %d, %Y');
 
 
-    //d3.nest to group our data by year (groupedData is an array of objects)
+    /*
+        This should return nested object of 
+        <YYYY>: { <MMMM>: [<obj1>, <obj2>, ... ]}
+        ...
+        See https://github.com/d3/d3-collection for details
+    */
     var groupedData = d3.nest()
         .key(function (dt) { return formatYear(parseTime(dt.date)); })
+        .key(function (dt) { return formatMonth(parseTime(dt.date)); })
+        //.key(function (dt) { return dt.price; })
         .entries(data.history);
 
-    console.log(groupedData);
+    // console.log(groupedData);
+    
+    // Should old monthly price totals
+    let monthlyPrices = {};
 
-    groupedData.forEach(function (d) {
-        // console.log(d.values);
-        const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    groupedData.forEach(yearlyData => {
+        let year = yearlyData.key;
+        // console.log(`Starting ${year}`);
+        // Initialize year object
+        monthlyPrices[year] = {};
 
-        // for (var i = 0; i < d.values.length; i++) {
-        //     //    console.log(d.values[i]);
-        // }
+        yearlyData.values.forEach(monthlyData => {
+            const month =  monthlyData.key;
+            const monthly_price = calculateMonthlyAvg(monthlyData.values);
+            // console.log(`avg gas price for ${year} and ${month} is ${monthly_price}`);
 
-
-        // use d3 to populate data table
-        d3.select("tbody")
-            .selectAll("tr")
-            .data(groupedData)
-            .enter()
-            .append("tr")
-            .html(function (d) {
-                // console.log(d.values);
-                // date/price map
-                // d.values.forEach(function(dv){
-                //     // console.log(dv);
-                // })
-
-                return `<td>${d.key}</td>
-                <td></td ><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>`;
-            });
-
+            // Storing in the following fashion
+            // result = {
+            //     1993 : {
+            //         'jan': price,
+            //         'feb': price
+            //     }
+            //  }...
+            monthlyPrices[year][month] = monthly_price;
+        });
     });
 
-    //function to get price ave for each month
-    function monthAve(array) {
-        // console.log(array);
+    // console.log(monthlyPrices);
 
-        var i = 0, sum = 0, len = array.length;
-        for (var i = 0; i < len; i++) {
-            for (var j = 0; j < i; j++) {
-                console.log(array[j]);
-            }
-        }
-        while (i < len) {
-            sum = sum + array[i++];
-        }
-        return sum / len;
-    }
+    const tbody = d3.select("tbody");
+    let tr = tbody;
 
+    const monthlyPricesArr = Object.entries(monthlyPrices);
+    // Data binding and HTML table rendering. Wish the td rendering was more elegant but it works.
+    d3.select("tbody")
+        .selectAll("tr")
+        .data(monthlyPricesArr)
+        .enter()
+        .append("tr")
+        .html(function(d) {
+                return  `<td><h7><b>${d[0]}<b></h7></td> <td>${d[1].Jan||'N/A'}</td> <td>${d[1].Feb||'N/A'}</td> <td>${d[1].Mar||'N/A'}`
+                        + `</td> <td>${d[1].Apr||'N/A'}</td> <td>${d[1].May||'N/A'}</td> <td>${d[1].Jun||'N/A'}</td> `
+                        + `<td>${d[1].Jul||'N/A'}</td> <td>${d[1].Aug||'N/A'}</td> <td>${d[1].Sep||'N/A'}</td> `
+                        + `<td>${d[1].Oct||'N/A'}</td> <td>${d[1].Nov||'N/A'}</td> <td>${d[1].Dec||'N/A'}</td>`;
+        });
 
 });
