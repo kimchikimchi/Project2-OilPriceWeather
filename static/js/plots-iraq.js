@@ -60,9 +60,9 @@ d3.json(gasdata_url).then(gasdata => {
         mode: 'markers',
         name: 'Historical Events',
         x: ['2001-09-11', '2003-03-20', '2003-05-01', 
-    '2005-08-29', '2008-04-18', '2008-06-06'],
-        y: [1.564, 1.752, 1.618, 2.514, 3.438, 4.131],
-        text: ['9/11 Attack', 'Iraq Invasion Ops Begins', 'Iraq Invasion Ops Ends', 'Hurricane Katrica Hits LA', 'Nigerian Militants Attacks Oil Pipeline', 'World Fears an Israeli Attack on Iran'],
+    '2005-08-29', '2008-04-18', '2008-06-06', '2011-12-15'],
+        y: [1.564, 1.752, 1.618, 2.514, 3.438, 4.131, 3.29],
+        text: ['9/11 Attack', 'Iraq Invasion Ops Begins', 'Iraq Invasion Ops Ends', 'Hurricane Katrina Hits LA', 'Nigerian Militants Attack Oil Pipeline', 'World Fears an Israeli Attack on Iran', 'US Conflict in Iraq Ends'],
         marker: {size: 15}
     };
 
