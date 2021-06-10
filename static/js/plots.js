@@ -59,9 +59,9 @@ d3.json(gasdata_url).then(gasdata => {
         mode: 'markers',
         name: 'Historical Events',
         x: ['2001-09-11', '2008-09-15', '2014-09-15', 
-    '2020-03-11', '2020-12-14'],
-        y: [1.564, 3.772, 3.534, 2.514, 2.246],
-        text: ['9/11 Attack', 'Lehman Brothers Collapse', 'Oil Glut', 'WHO Declares Pandemic', 'First Person American Vaccinated'],
+    '2020-03-11', '2020-12-14', '2011-05-02'],
+        y: [1.564, 3.772, 3.534, 2.514, 2.246, 4.014],
+        text: ['9/11 Attack', 'Lehman Brothers Collapse', 'Oil Glut', 'WHO Declares Pandemic', 'First Person American Vaccinated', 'US Captures Osama bin Laden'],
         marker: {size: 15}
 
     };
